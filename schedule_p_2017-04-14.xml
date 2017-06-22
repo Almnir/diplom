@@ -1,0 +1,2848 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<schedule date="2017.04.14" type="plan">
+  <regions>
+    <region code="2" name="Республика Башкортостан">
+      <stations>
+        <station id="6B32082F-4211-4086-975E-84349FBC8437" code="11" name="Муниципальное  бюджетное общеобразовательное учреждение &quot;Башкирская гимназия №102&quot;  городского округа город Уфа Республики  Башкортостан" school_id="EACA5562-BC9A-4BBF-958C-8EE466A61E1C">
+          <auditoriums>
+            <auditorium id="31B08612-E53B-4F0B-AA8D-CD8BEB7BE99B" name="116" code="0004" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="8" />
+              </subjects>
+            </auditorium>
+            <auditorium id="BA9C3366-3A5C-40FA-819A-FE1D9D0C1000" name="117" code="0005" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="8" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+        <station id="9033B152-04A5-4C05-9EE2-9D63B097A9F2" code="251" name="Муниципальное автономное общеобразовательное учреждение &quot;Средняя общеобразовательная школа №5&quot; городского округа город Стерлитамак Республики Башкортостан" school_id="90C76F12-39D0-4425-8AF6-694A0724A8DE">
+          <auditoriums>
+            <auditorium id="277B2CFE-6B39-419C-9FAE-F4A75C92058E" name="кабинет №1" code="0001" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="3" />
+              </subjects>
+            </auditorium>
+            <auditorium id="7CB0A074-B644-423E-B34E-AC9337E7B840" name="кабинет №2" code="0002" can_be_special="0" seats="18">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="2" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+        <station id="2B26C89F-0D7F-461A-928D-FC895C8C7F81" code="55" name="МАОУ  &quot;Центр образования №114&quot;" school_id="F7BD0AB0-8564-4D3B-BB39-C17A0167ACCA">
+          <auditoriums>
+            <auditorium id="CAB14E57-4F58-4A80-98E7-199697E316EC" name="26" code="0005" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="2" />
+              </subjects>
+            </auditorium>
+            <auditorium id="11B69EAA-EE51-41C8-9E78-E1A6CB10A23C" name="27" code="0006" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="9" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+      </stations>
+    </region>
+    <region code="3" name="Республика Бурятия">
+      <stations>
+        <station id="A72EE937-0B73-4BE3-9A91-54FF03BAF161" code="204" name="ГБПОУ &quot;Бурятский лесопромышленный колледж&quot;" school_id="0B0E1096-0711-4E2A-AB45-94AFB40D42F2">
+          <auditoriums>
+            <auditorium id="1B70703C-4382-4F88-B80C-46441040110E" name="Кабинет № 102" code="0102" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="3" />
+              </subjects>
+            </auditorium>
+            <auditorium id="0B9715C9-92DD-4512-8B52-72698659C698" name="Кабинет № 107" code="0107" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="13" />
+              </subjects>
+            </auditorium>
+            <auditorium id="144F65C2-24B7-4895-9A77-51253D4F2563" name="Кабинет № 208" code="0208" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="10" />
+              </subjects>
+            </auditorium>
+            <auditorium id="2FD4E242-EDE9-491A-8858-7DDB50763B37" name="Кабинет № 211" code="0211" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="10" />
+              </subjects>
+            </auditorium>
+            <auditorium id="24779B74-70C2-4947-94A5-6DDED748BBAD" name="Кабинет № 212" code="0212" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="8" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+        <station id="E62032CE-E522-48F7-ABE8-F95E3AB1A4E8" code="105" name="МБОУ &quot;Гимназия № 5&quot;" school_id="606CCB89-9664-4391-B433-E442022E2368">
+          <auditoriums>
+            <auditorium id="E8CF8C19-48EB-490F-9CA4-D06B9107F352" name="Кабинет 303" code="0303" can_be_special="0" seats="18">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="1" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+      </stations>
+    </region>
+    <region code="4" name="Республика Алтай">
+      <stations>
+        <station id="803B32C9-BACA-4189-B110-E069D40F90F0" code="119" name="БОУ РА &quot;Республиканская гимназия им. В.К. Плакаса&quot;" school_id="2FEB19BC-C624-4E41-9057-8CA680D41CAF">
+          <auditoriums>
+            <auditorium id="6373AE87-A22D-46EF-B7E2-A456AE6D4358" name="кабинет № 317" code="0014" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="1" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+      </stations>
+    </region>
+    <region code="5" name="Республика Дагестан">
+      <stations>
+        <station id="D57CBDA5-400C-41CA-8862-313F6814D5F1" code="622" name="Махачкалинский лицей №22" school_id="A15111F5-E152-49AC-BBEC-A8D554328CBE">
+          <auditoriums>
+            <auditorium id="7855F44D-AC1F-4440-82E2-267400804414" name="1" code="0001" can_be_special="0" seats="18">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="12" />
+              </subjects>
+            </auditorium>
+            <auditorium id="62CCB9F3-0EA2-4C09-834A-3E848221F4DE" name="2" code="0002" can_be_special="1" seats="18">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="1" special="1" total="1" />
+              </subjects>
+            </auditorium>
+            <auditorium id="B2E93E0A-0AEE-44BE-914F-2E59EE753C42" name="3" code="0003" can_be_special="1" seats="18">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="1" special="1" total="1" />
+              </subjects>
+            </auditorium>
+            <auditorium id="508EF387-C1C0-4B3F-AACB-1CEF7A2ED417" name="4" code="0004" can_be_special="0" seats="18">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="15" />
+              </subjects>
+            </auditorium>
+            <auditorium id="0D1B206E-CD06-43FE-9046-E5C5B7B3CEB0" name="5" code="0005" can_be_special="0" seats="18">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="13" />
+              </subjects>
+            </auditorium>
+            <auditorium id="0E01E506-0ABC-4B5E-B2A0-A4D22A5C9D3C" name="6" code="0006" can_be_special="0" seats="18">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="14" />
+              </subjects>
+            </auditorium>
+            <auditorium id="6AEB4652-DC03-4ACA-AF2D-67217FA26AC2" name="7" code="0007" can_be_special="0" seats="18">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="15" />
+              </subjects>
+            </auditorium>
+            <auditorium id="9ADA71F0-41F4-4FE0-A31D-1F57A696124A" name="8" code="0008" can_be_special="0" seats="18">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="14" />
+              </subjects>
+            </auditorium>
+            <auditorium id="2EB06A60-8C35-4E1B-B9CB-834010C67D54" name="9" code="0009" can_be_special="0" seats="18">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="14" />
+              </subjects>
+            </auditorium>
+            <auditorium id="388CEEA3-1E61-41E3-BB8E-8152895B5D64" name="10" code="0010" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="14" />
+              </subjects>
+            </auditorium>
+            <auditorium id="D81F2FF5-8BC6-4A7E-9950-8CE94D42983C" name="11" code="0011" can_be_special="0" seats="18">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="14" />
+              </subjects>
+            </auditorium>
+            <auditorium id="2F129E69-795E-40C4-891E-1087996F352E" name="12" code="0012" can_be_special="0" seats="18">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="15" />
+              </subjects>
+            </auditorium>
+            <auditorium id="FDDD2A4B-C027-4C67-8BA2-974D524327EB" name="13" code="0013" can_be_special="0" seats="18">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="11" />
+              </subjects>
+            </auditorium>
+            <auditorium id="6AE2E34D-BBAA-43E7-8460-DA3531EB0F71" name="14" code="0014" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="11" />
+              </subjects>
+            </auditorium>
+            <auditorium id="451C40AE-B9C1-4806-A830-BB0C3910EF83" name="15" code="0015" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="14" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+      </stations>
+    </region>
+    <region code="6" name="Республика Ингушетия">
+      <stations>
+        <station id="AB022913-FA3C-4483-B493-5643ECE81FC5" code="410" name="ГКОУ Средняя общеобразовательная школа № 10  г.Назрань" school_id="3796404C-A1BA-4958-B41C-FB7B088F5E67">
+          <auditoriums>
+            <auditorium id="20AFCBEA-555D-49B6-AD85-A1867D20C360" name="3" code="0003" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="15" />
+              </subjects>
+            </auditorium>
+            <auditorium id="59401A1B-5C5C-48E0-B75F-D7E80C5CD808" name="4" code="0004" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="15" />
+              </subjects>
+            </auditorium>
+            <auditorium id="2B821B28-AAAE-478A-BDAA-FA6585962404" name="5" code="0005" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="11" />
+              </subjects>
+            </auditorium>
+            <auditorium id="1741051D-D3EA-4E7C-9DEF-6E26CAEA0AB1" name="6" code="0006" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="15" />
+              </subjects>
+            </auditorium>
+            <auditorium id="9D782273-89A7-47ED-B584-C3014A920525" name="7" code="0007" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="10" />
+              </subjects>
+            </auditorium>
+            <auditorium id="E7EB0B65-6C1E-43FC-BA29-0768EC6FEA54" name="8" code="0008" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="10" />
+              </subjects>
+            </auditorium>
+            <auditorium id="83A4A1FD-4B42-4011-B0BE-90ECA98DED19" name="9" code="0009" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="15" />
+              </subjects>
+            </auditorium>
+            <auditorium id="6322C8F9-AF66-4C1D-8A61-A4A6A7A7116D" name="10" code="0010" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="15" />
+              </subjects>
+            </auditorium>
+            <auditorium id="84C72E06-EE63-4734-B4BF-AC0F5CCCDB2A" name="11" code="0011" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="10" />
+              </subjects>
+            </auditorium>
+            <auditorium id="39B00308-D476-4A73-9A6F-08E564AB33AA" name="12" code="0012" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="7" />
+              </subjects>
+            </auditorium>
+            <auditorium id="E39C78A9-C0A8-4810-A4A6-9C5831A5247F" name="ГВЭ" code="0016" can_be_special="1" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="1" special="1" total="1" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+      </stations>
+    </region>
+    <region code="7" name="Кабардино-Балкарская Республика">
+      <stations>
+        <station id="D66511F2-E306-4DFA-BE12-9A0A0C90995C" code="921" name="Муниципальное  казенное общеобразовательное учреждение ``Средняя общеобразовательная школа №21 с углубленным изучением отдельных предметов`` г.о.Нальчик" school_id="08BF997F-A073-4404-A90D-FE96E205C4FE">
+          <auditoriums>
+            <auditorium id="D9652B92-4E3B-41D7-B785-9D509C98AE6A" name="01" code="0001" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="3" />
+              </subjects>
+            </auditorium>
+            <auditorium id="2C941965-FB65-4514-83FE-E17999D690DA" name="02" code="0002" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="1" />
+              </subjects>
+            </auditorium>
+            <auditorium id="C6B329FD-B13B-4274-9A23-042BABF22F12" name="03" code="0003" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="2" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+      </stations>
+    </region>
+    <region code="8" name="Республика Калмыкия">
+      <stations>
+        <station id="C14C0B9F-619E-4583-B68C-1221FE4D0D87" code="53" name="МБОУ  &quot;СОШ №23&quot; г. Элисты" school_id="8F0B17A1-05B7-4BE3-B58F-668E9165E575">
+          <auditoriums>
+            <auditorium id="5BCFE110-3B30-4FF3-BD56-B6C67FC94557" name="каб 207" code="0002" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="0" />
+              </subjects>
+            </auditorium>
+            <auditorium id="DC6534F0-7517-41F1-9437-737ED497D7B0" name="каб 208" code="0003" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="0" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+      </stations>
+    </region>
+    <region code="9" name="Карачаево-Черкесская Республика">
+      <stations>
+        <station id="CA729CE2-3D3C-40E1-8969-F8B475369E41" code="101" name="РГКОУ &quot;Школа-интернат им. Латоковой Г. Д.&quot;" school_id="DF7B575C-91C8-407D-8498-0310774E8B84">
+          <auditoriums>
+            <auditorium id="9EFBC9E7-D11D-4158-A568-9ACE57CCB24C" name="0005" code="0005" can_be_special="0" seats="18">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="2" />
+              </subjects>
+            </auditorium>
+            <auditorium id="82C24C75-B868-47DA-ABEE-DCC6445A579F" name="0006" code="0006" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="4" />
+              </subjects>
+            </auditorium>
+            <auditorium id="35E698AB-E790-4E57-A394-0CAE7BC43FA4" name="0007" code="0007" can_be_special="0" seats="18">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="5" />
+              </subjects>
+            </auditorium>
+            <auditorium id="13BB0DF3-BD02-4746-9DF3-6D427582B8D0" name="0008" code="0008" can_be_special="1" seats="18">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="1" special="1" total="1" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+      </stations>
+    </region>
+    <region code="10" name="Республика Карелия">
+      <stations>
+        <station id="09AEC310-EC9A-423C-82F8-17D2A9D3B687" code="86" name="ГАУ РК &quot;ЦОКО&quot;">
+          <auditoriums>
+            <auditorium id="CCCAFA47-D39F-466E-B4A4-5AD938AB3E66" name="0301" code="0301" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="3" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+      </stations>
+    </region>
+    <region code="11" name="Республика Коми">
+      <stations>
+        <station id="957063A3-DEDE-45BB-AFF0-B6002A281FA8" code="102" name="МАОУ &quot;СОШ № 12&quot; г. Сыктывкар" school_id="1381498A-A047-4F66-B7BE-68580FA0C441">
+          <auditoriums>
+            <auditorium id="7F2B1C5A-9451-4F13-A15C-37BBC8DBA589" name="0032" code="0032" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="1" />
+              </subjects>
+            </auditorium>
+            <auditorium id="1ECF7118-BAF5-4235-85A5-EFB245DE1D53" name="0033" code="0033" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="2" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+        <station id="BFD312A6-9F6E-4E85-B162-DA962B5F2635" code="902" name="МОУ &quot;СОШ № 20&quot; г. Ухта" school_id="134D8A20-88B6-4470-BC9F-4673A2FDC4E1">
+          <auditoriums>
+            <auditorium id="75EBA84D-D3C4-463A-8D1C-40F4519EFC6A" name="318" code="0005" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="1" />
+              </subjects>
+            </auditorium>
+            <auditorium id="7A6023F5-6471-4515-B973-42DFF989BE4B" name="319" code="0008" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="2" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+      </stations>
+    </region>
+    <region code="12" name="Республика Марий Эл">
+      <stations>
+        <station id="DEC2DD43-5B6B-4F22-8FB8-0A1F6517BDA4" code="147" name="МОУ &quot;Лицей №11 им. Т.И. Александровой г.Йошкар-Олы&quot;" school_id="F4B7BA8D-994D-48A3-B245-48FD2E6E55F3">
+          <auditoriums>
+            <auditorium id="C0BE993A-71E6-454B-83DF-E82E203F1650" name="кабинет 405" code="0112" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="1" />
+              </subjects>
+            </auditorium>
+            <auditorium id="B2FEF5A8-FF45-4D49-B984-E2E5A39CB9C6" name="кабинет 406" code="0113" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="0" />
+              </subjects>
+            </auditorium>
+            <auditorium id="8D0E39D2-890F-4A42-B1B8-6CED5DE6A267" name="кабинет 408" code="0114" can_be_special="0" seats="18">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="1" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+        <station id="3964B194-AAD6-48FE-9D5A-3981A2253AF3" code="1105" name="ФКУ &quot;Исправительная колония № 5 УФСИН России по Республике Марий Эл&quot;" school_id="6CA8E95B-DBAE-4496-98D8-1C3ED5C0245B">
+          <auditoriums>
+            <auditorium id="87969F6A-12CF-4E5C-B622-0E4FDF2A7892" name="Кабинет №1" code="0101" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика" with_disabilities="0" special="0" total="1" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+      </stations>
+    </region>
+    <region code="13" name="Республика Мордовия">
+      <stations>
+        <station id="746D954D-9A73-494A-9BD1-8D9A5ECF7152" code="72" name="ГБПОУ РМ &quot;Саранский строительный техникум&quot;" school_id="B03115B3-EEA3-4335-88D4-15B25E14A6D0">
+          <auditoriums>
+            <auditorium id="BBA30F7F-E149-4472-8C6E-4F37F5742A39" name="1" code="0001" can_be_special="0" seats="27">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="1" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+        <station id="89A010D8-649D-4463-B957-AA96C37C9049" code="106" name="Муниципальное общеобразовательное учреждение &quot;Средняя общеобразовательная школа  с углубленным изучением отдельных предметов №36&quot;" school_id="895B3ADF-1FA0-4C0A-BE77-200A35ED9B25">
+          <auditoriums>
+            <auditorium id="208A2351-A107-43C5-B0FF-3535E6BEF2AB" name="1" code="0001" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="1" />
+              </subjects>
+            </auditorium>
+            <auditorium id="BC3A7E3D-7CC4-415A-B17B-D84BC4152883" name="2" code="0002" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="3" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+      </stations>
+    </region>
+    <region code="14" name="Республика Саха (Якутия)">
+      <stations>
+        <station id="87B57C3E-1E1D-419F-B0DC-0A87F0F26EA3" code="669" name="Муниципальное общеобразовательное учреждение-Средняя общеобразовательная школа №13 г.Нерюнгри" school_id="ABE0B5AE-5EB7-42BD-A076-E1FECDA36D03">
+          <auditoriums>
+            <auditorium id="16EA1E02-1AF0-49EF-8819-A832AE018B81" name="кабинет русский язык" code="0038" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="2" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+        <station id="254AA153-FA24-4040-86F7-781D8301CB44" code="721" name="МОБУ СОШ №30 им. В.И.Кузьмина" school_id="14B915FD-9EFD-423C-8E63-290F11375FD8">
+          <auditoriums>
+            <auditorium id="4D2B8ECC-9472-4695-A3C1-128DB5DFD54E" name="1" code="0001" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="5" />
+              </subjects>
+            </auditorium>
+            <auditorium id="47B1775E-23CF-4315-9672-285AF8D6C726" name="2" code="0002" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="6" />
+              </subjects>
+            </auditorium>
+            <auditorium id="F7C469ED-7F14-4FFC-9F65-3DE7D42780B9" name="3" code="0003" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="10" />
+              </subjects>
+            </auditorium>
+            <auditorium id="EDFE6CA2-E051-4482-BE87-95442971CF59" name="4" code="0004" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="9" />
+              </subjects>
+            </auditorium>
+            <auditorium id="600E369B-5EB3-4FF8-AA1E-366D22325B44" name="5" code="0005" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="10" />
+              </subjects>
+            </auditorium>
+            <auditorium id="CDD08A35-D0FA-4494-A564-756E603FB1B3" name="6" code="0006" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="10" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+        <station id="3C11E278-DBCD-40B8-B673-BC6675A09797" code="702" name="Муниципальное общеобразовательное учреждение &lt;Средняя общеобразовательная школа №3&gt; Городского  округа &lt;Город Якутск&gt;" school_id="2D7862E5-B8EC-4630-ABF9-F4F46F28688D">
+          <auditoriums>
+            <auditorium id="98A562B3-2B85-498A-AD36-1C4AC81F1227" name="биология" code="0403" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="2" />
+              </subjects>
+            </auditorium>
+            <auditorium id="523A56F3-BFDA-4A79-B04A-AA6344B62459" name="биология" code="0404" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="3" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+      </stations>
+    </region>
+    <region code="15" name="Республика Северная Осетия">
+      <stations>
+        <station id="BBF49FB2-02B8-409B-A298-4389F1F76802" code="7100" name="ГБУ РЦОКО">
+          <auditoriums>
+            <auditorium id="9BEBCC10-2C09-4230-8781-F6AA56299BA8" name="ауд.1" code="0001" can_be_special="0" seats="10">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="1" />
+              </subjects>
+            </auditorium>
+            <auditorium id="EB4E707F-1A85-4AF5-8203-2F41ED61C1A8" name="ауд.3" code="0003" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="2" />
+              </subjects>
+            </auditorium>
+            <auditorium id="96178E10-19FC-416C-8D55-65EE740C42D6" name="ауд.7" code="0007" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="7" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+      </stations>
+    </region>
+    <region code="16" name="Республика Татарстан">
+      <stations>
+        <station id="59A89A63-D411-4932-B389-664F1FCE4280" code="6001" name="Муниципальное бюджетное общеобразовательное учреждение &quot;Гимназия № 8&quot; Советского района г. Казани" school_id="A3A3B739-9D30-4932-B32B-DB8416DE930A">
+          <auditoriums>
+            <auditorium id="75555A6A-25A1-4B16-A5D4-A09C9809C731" name="МАТЕМАТИКА" code="1202" can_be_special="0" seats="18">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="12" />
+              </subjects>
+            </auditorium>
+            <auditorium id="339D674F-CDBF-4B3C-B93A-331FC24D4185" name="МАТЕМАТИКА" code="1204" can_be_special="0" seats="18">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="13" />
+              </subjects>
+            </auditorium>
+            <auditorium id="79D13BC6-5D19-4546-BF32-8495B416E76F" name="НАЧАЛЬНЫЕ КЛАССЫ" code="1208" can_be_special="0" seats="18">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="14" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+      </stations>
+    </region>
+    <region code="17" name="Республика Тыва">
+      <stations>
+        <station id="39027D09-CED1-4FD6-8356-F8485B3E4A32" code="50" name="МБОУ Гимназия № 9 г. Кызыла" school_id="0D00D62B-D68D-46F2-975F-F6C0E91096A6">
+          <auditoriums>
+            <auditorium id="5694AD6F-7AE4-435A-909E-1CC2F0B75921" name="Кабинет физики" code="0201" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="4" />
+              </subjects>
+            </auditorium>
+            <auditorium id="5412A105-1B17-40F8-8EA0-7E2C047AD265" name="Кабинет истории" code="0202" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="12" />
+              </subjects>
+            </auditorium>
+            <auditorium id="517FDC4F-1878-404C-8E62-13B5AAD95CCB" name="Кабинет географии" code="0203" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="15" />
+              </subjects>
+            </auditorium>
+            <auditorium id="5F06A7FF-3BAC-4D33-B1AC-1E9C4223F8A4" name="Кабинет русского языка" code="0206" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="12" />
+              </subjects>
+            </auditorium>
+            <auditorium id="49BCE971-8054-4961-BA6F-8830E3B6DFF6" name="Кабинет биологии" code="0209" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="14" />
+              </subjects>
+            </auditorium>
+            <auditorium id="CD917A71-C615-4299-878B-C617AA787DBF" name="Кабинет химии" code="0301" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="14" />
+              </subjects>
+            </auditorium>
+            <auditorium id="16F1F619-6BD0-43F9-A20F-0FF333BF4C8B" name="Кабинет математики" code="0302" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="15" />
+              </subjects>
+            </auditorium>
+            <auditorium id="5303988F-30A4-4CFF-83F6-6F77AEA28E1E" name="Кабинет математики 2" code="0303" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="15" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+      </stations>
+    </region>
+    <region code="18" name="Удмуртская Республика">
+      <stations>
+        <station id="0C615BB5-CD44-4B01-8AB4-F89713AB1A08" code="75" name="Муниципальное бюджетное общеобразовательное учреждение &quot;Средняя общеобразовательная школа № 9&quot;" school_id="F91DE993-8115-4645-B5D8-3AA192DADAF8">
+          <auditoriums>
+            <auditorium id="DCCAA071-ABBB-4617-A595-7CD78E378063" name="0306" code="0306" can_be_special="1" seats="2">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="1" special="1" total="1" />
+              </subjects>
+            </auditorium>
+            <auditorium id="9D8FC986-B824-4F8F-AFE1-AC9083C3E551" name="0313" code="0313" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="2" />
+              </subjects>
+            </auditorium>
+            <auditorium id="257756E4-CC6D-4047-ACF0-0272EF2A7F99" name="0314" code="0314" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="9" />
+              </subjects>
+            </auditorium>
+            <auditorium id="86BE985D-8ECC-4F24-BA17-0A5E01A99ECC" name="0315" code="0315" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="5" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+      </stations>
+    </region>
+    <region code="19" name="Республика Хакасия">
+      <stations>
+        <station id="351190B5-D12A-43AF-AA7E-CC78393D6657" code="1018" name="МБОУ &quot;СОШ №26 с УИОП&quot; г. Абакана" school_id="535EA4CA-8940-4E62-A513-3046848DB912">
+          <auditoriums>
+            <auditorium id="0FB11526-2284-414F-85A5-B2A0DBAD87D1" name="4" code="0004" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="1" />
+              </subjects>
+            </auditorium>
+            <auditorium id="47B157AA-2E22-48C4-9499-5FBE579EA16E" name="5" code="0005" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="1" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+      </stations>
+    </region>
+    <region code="20" name="Чеченская Республика">
+      <stations>
+        <station id="501012E0-23DF-407C-B0A5-10AA5466C1E2" code="1301" name="ППЭ №1301 - Гимназия №5 г.Урус-Мартан" school_id="F3979D21-BB81-40C6-83D0-D6C8417374CD">
+          <auditoriums>
+            <auditorium id="883B2BE1-4B63-49B0-9098-A16156C131F0" name="105" code="0105" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика" with_disabilities="0" special="0" total="1" />
+              </subjects>
+            </auditorium>
+            <auditorium id="595C99DC-89C4-43D1-941A-4D1002314077" name="301" code="0301" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="12" />
+              </subjects>
+            </auditorium>
+            <auditorium id="8DECE7C7-65D1-4D78-919C-76D649E6DAB6" name="302" code="0302" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="13" />
+              </subjects>
+            </auditorium>
+            <auditorium id="78D5F675-467D-4B2B-86FE-84130D18962C" name="303" code="0303" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="12" />
+              </subjects>
+            </auditorium>
+            <auditorium id="AD2A4825-697C-421F-8799-8EA476BA3212" name="304" code="0304" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="12" />
+              </subjects>
+            </auditorium>
+            <auditorium id="87B57F61-FF84-4894-B43B-D640516DFEE5" name="305" code="0305" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="12" />
+              </subjects>
+            </auditorium>
+            <auditorium id="90DC9DE4-27E9-40E2-A9BA-7FB21689F4C5" name="306" code="0306" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="15" />
+              </subjects>
+            </auditorium>
+            <auditorium id="2B976F87-34B2-4206-88FD-10D9E52814E4" name="307" code="0307" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="15" />
+              </subjects>
+            </auditorium>
+            <auditorium id="4618E457-CB4A-4037-BA1D-153F0688FC30" name="308" code="0308" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="15" />
+              </subjects>
+            </auditorium>
+            <auditorium id="5D00A6B5-9848-4BCD-95BD-95E346399D4E" name="309" code="0309" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="9" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+        <station id="8D2BE76B-7FC1-44AF-9F80-355C2CBC7F77" code="1001" name="ППЭ №1001 - СОШ №1 с.Наур" school_id="3735F2FC-7072-434F-A343-5611377F7C22">
+          <auditoriums>
+            <auditorium id="8C89663F-9541-4446-BEC0-8909D2E63828" name="106" code="0106" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика" with_disabilities="0" special="0" total="1" />
+              </subjects>
+            </auditorium>
+            <auditorium id="57F1BDD3-90C8-4090-A86E-8E5790287D36" name="301" code="0301" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="12" />
+              </subjects>
+            </auditorium>
+            <auditorium id="D8BAD3F0-55E3-4A8E-8C9C-F2BA08C5A3DD" name="302" code="0302" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="12" />
+              </subjects>
+            </auditorium>
+            <auditorium id="9D462317-A5D4-4B40-B3B4-F6BDEC518F59" name="303" code="0303" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="12" />
+              </subjects>
+            </auditorium>
+            <auditorium id="BB726270-2330-41B3-A184-734B078CFC0B" name="304" code="0304" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="12" />
+              </subjects>
+            </auditorium>
+            <auditorium id="62427997-688D-4662-908B-A39140BAA98A" name="305" code="0305" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="11" />
+              </subjects>
+            </auditorium>
+            <auditorium id="C83AD6A9-7A61-4D3E-8744-1802D2D2EBF5" name="306" code="0306" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="11" />
+              </subjects>
+            </auditorium>
+            <auditorium id="320F85C1-EA39-4D5D-9797-C16D3E7B1FFF" name="307" code="0307" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="10" />
+              </subjects>
+            </auditorium>
+            <auditorium id="773D76D4-4787-4B40-B465-0998DDF97DA1" name="308" code="0308" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="7" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+        <station id="38A7DD8A-62A8-4819-BC8B-471B953FFC97" code="507" name="ППЭ №507 - СОШ №50 г.Грозного" school_id="E7223F16-4793-4DBD-9F1A-C20296539E82">
+          <auditoriums>
+            <auditorium id="2F71812D-0FB8-49D2-99D9-01118808D48E" name="201" code="0201" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="15" />
+              </subjects>
+            </auditorium>
+            <auditorium id="A5F1029E-6B78-46E4-B9B0-C9DAF24514A3" name="202" code="0202" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="15" />
+              </subjects>
+            </auditorium>
+            <auditorium id="99F16FE0-C270-4B4C-BC08-98E7D6C310FF" name="203" code="0203" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="15" />
+              </subjects>
+            </auditorium>
+            <auditorium id="790B0114-DEF1-4D24-8A76-6EDA3A52145F" name="204" code="0204" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="15" />
+              </subjects>
+            </auditorium>
+            <auditorium id="51EB1982-FE41-40F0-80F8-A8C276FC8D63" name="205" code="0205" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="15" />
+              </subjects>
+            </auditorium>
+            <auditorium id="C4B8D8C5-6442-4CB9-A384-9F2B20A9DF9C" name="301" code="0301" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="15" />
+              </subjects>
+            </auditorium>
+            <auditorium id="7653FA6F-66C2-4C92-9DAB-DF3860B74DE3" name="302" code="0302" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="10" />
+              </subjects>
+            </auditorium>
+            <auditorium id="CBDE1FC3-D86F-40B3-9C15-1423CA56430B" name="303" code="0303" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="11" />
+              </subjects>
+            </auditorium>
+            <auditorium id="DDB03DAF-5D56-46EC-8E27-B4B5360AEE2F" name="304" code="0304" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="9" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+        <station id="7E029736-1CE2-43CA-8EAF-58BF3BB7BD4D" code="805" name="ППЭ №805 - СОШ №2 с.Курчалой" school_id="F5D7950D-37A2-44AF-87C5-2737B77ABC18">
+          <auditoriums>
+            <auditorium id="8BCAF7D3-A707-4E1D-ACFA-6C5E16A60A30" name="101" code="0101" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="11" />
+              </subjects>
+            </auditorium>
+            <auditorium id="97558361-5AE6-41BA-9489-F6F7BCB33F70" name="102" code="0102" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="11" />
+              </subjects>
+            </auditorium>
+            <auditorium id="C3FD841B-8FC4-46FF-85DC-837CC047A41E" name="105" code="0105" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="15" />
+              </subjects>
+            </auditorium>
+            <auditorium id="98A0EBD9-9BC2-4DB9-8267-7CD933BD0524" name="106" code="0106" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="14" />
+              </subjects>
+            </auditorium>
+            <auditorium id="9B6F0330-3A19-4B1C-8069-73875A3182D9" name="107" code="0107" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="15" />
+              </subjects>
+            </auditorium>
+            <auditorium id="03E2C86C-21FD-45DE-8194-C895D62940E1" name="108" code="0108" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="15" />
+              </subjects>
+            </auditorium>
+            <auditorium id="8F9DA625-08E7-4DDF-AB9E-1831BF50EB37" name="109" code="0109" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="14" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+        <station id="31F5257C-04FE-4B46-8695-5E170FC370DA" code="1703" name="ППЭ №1703 - СОШ №10 г.Шали" school_id="43093A95-25AF-4038-98CC-52CDAFDBD5A7">
+          <auditoriums>
+            <auditorium id="E08FF440-03D5-4756-B74F-B557FC8E5164" name="201" code="0201" can_be_special="0" seats="18">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="14" />
+              </subjects>
+            </auditorium>
+            <auditorium id="999FF3B4-0D82-49F2-A0F6-651A52CDC2D9" name="202" code="0202" can_be_special="0" seats="18">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="14" />
+              </subjects>
+            </auditorium>
+            <auditorium id="AAEEA023-31D4-44E1-848D-D9B93BA4DA37" name="203" code="0203" can_be_special="0" seats="18">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="14" />
+              </subjects>
+            </auditorium>
+            <auditorium id="6954B22B-24B7-4F0D-993B-1886D724F444" name="204" code="0204" can_be_special="0" seats="24">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="13" />
+              </subjects>
+            </auditorium>
+            <auditorium id="04F1A685-E603-4E17-97F7-3D12F902D0EB" name="205" code="0205" can_be_special="0" seats="18">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="13" />
+              </subjects>
+            </auditorium>
+            <auditorium id="7A7B18B2-8C60-4C1E-A1DB-7C71A4CAC3AC" name="301" code="0301" can_be_special="0" seats="18">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="18" />
+              </subjects>
+            </auditorium>
+            <auditorium id="806F4933-AE0A-4322-A609-DE826FBEF022" name="302" code="0302" can_be_special="0" seats="24">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="17" />
+              </subjects>
+            </auditorium>
+            <auditorium id="3EEBD71C-2594-4083-8732-E57FA7D61676" name="303" code="0303" can_be_special="0" seats="18">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="17" />
+              </subjects>
+            </auditorium>
+            <auditorium id="C5635FF8-83E0-43BA-9068-26AC107E740C" name="304" code="0304" can_be_special="0" seats="24">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="18" />
+              </subjects>
+            </auditorium>
+            <auditorium id="4922351F-B042-4075-B2E3-5B08BE69E532" name="305" code="0305" can_be_special="0" seats="18">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="18" />
+              </subjects>
+            </auditorium>
+            <auditorium id="6D926823-6FC1-4B05-B323-E57614D1853D" name="306" code="0306" can_be_special="0" seats="18">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="14" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+        <station id="4DE5274E-5299-404F-B865-F0A0F9894025" code="501" name="ППЭ №501 - Гимназия №4 г.Грозный" school_id="44DE71A3-9667-48DD-AE3A-1595A51E865B">
+          <auditoriums>
+            <auditorium id="EE1CFF82-3117-4452-89F8-F232D62CA7AC" name="201" code="0201" can_be_special="0" seats="18">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="4" />
+              </subjects>
+            </auditorium>
+            <auditorium id="7E0AEFFD-E35D-46F9-BD6C-98D534BB3256" name="202" code="0202" can_be_special="0" seats="18">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="17" />
+              </subjects>
+            </auditorium>
+            <auditorium id="8BCCE36D-7AC6-4D0B-B5E0-AF93EC3FC025" name="203" code="0203" can_be_special="0" seats="21">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="16" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+        <station id="FB420CBE-9C87-4CCB-850E-F5D71A6E6D22" code="602" name="ППЭ №602 - Гудермесская СШ №2" school_id="4C4BE9B8-D0D2-4304-82DC-268A1BCF7E55">
+          <auditoriums>
+            <auditorium id="E6DE7CB5-FEC2-4442-B15D-D6AB3EB038C3" name="101" code="0101" can_be_special="0" seats="1">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="1" />
+              </subjects>
+            </auditorium>
+            <auditorium id="A37C91E0-C9E9-4FCD-88E8-BD05DB9B7AAF" name="201" code="0201" can_be_special="0" seats="18">
+              <subjects>
+                <subject name="Математика" with_disabilities="0" special="0" total="1" />
+              </subjects>
+            </auditorium>
+            <auditorium id="B34E3193-0C2D-4DC6-A87A-FE9EC73C2E33" name="301" code="0301" can_be_special="0" seats="18">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="17" />
+              </subjects>
+            </auditorium>
+            <auditorium id="9121A1F2-51DC-4E71-B928-87404369968F" name="302" code="0302" can_be_special="0" seats="18">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="16" />
+              </subjects>
+            </auditorium>
+            <auditorium id="65E4ECBE-F4F1-441B-A11C-ABCA8CC7642D" name="303" code="0303" can_be_special="0" seats="18">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="16" />
+              </subjects>
+            </auditorium>
+            <auditorium id="85A4ED40-9672-4AAC-9C56-D53340286436" name="304" code="0304" can_be_special="0" seats="18">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="17" />
+              </subjects>
+            </auditorium>
+            <auditorium id="A7FF06B8-D5AA-477B-9B67-91708E47D7BA" name="305" code="0305" can_be_special="0" seats="18">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="16" />
+              </subjects>
+            </auditorium>
+            <auditorium id="0B549B66-3F2F-4391-8C91-1D458A539F73" name="306" code="0306" can_be_special="0" seats="18">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="16" />
+              </subjects>
+            </auditorium>
+            <auditorium id="2F56C094-4E0E-4B48-A97D-5F423739E9FC" name="307" code="0307" can_be_special="0" seats="18">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="12" />
+              </subjects>
+            </auditorium>
+            <auditorium id="CF1406C2-A6E2-4149-BFFF-590E8E20DBCB" name="308" code="0308" can_be_special="0" seats="18">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="12" />
+              </subjects>
+            </auditorium>
+            <auditorium id="5A3831AD-0D61-4777-BA3B-E217369D2E79" name="309" code="0309" can_be_special="0" seats="18">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="13" />
+              </subjects>
+            </auditorium>
+            <auditorium id="D11FBAAD-2B09-46AA-8311-22D35CAF5F40" name="310" code="0310" can_be_special="0" seats="18">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="16" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+      </stations>
+    </region>
+    <region code="21" name="Чувашская Республика">
+      <stations>
+        <station id="C550B50B-F046-405F-A705-5BF3B332DEE2" code="48" name="Муниципальное бюджетное общеобразовательное учреждение &quot;Средняя общеобразовательная школа № 43&quot; города Чебоксары Чувашской Республики" school_id="60B88AFA-024D-416F-896D-1D5F9C9B0441">
+          <auditoriums>
+            <auditorium id="BFD3DB9B-FF0A-4C1D-BFF3-35C3FF68991E" name="204" code="0204" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="0" />
+              </subjects>
+            </auditorium>
+            <auditorium id="F5C37574-98E3-4F7A-9C61-12D851B75472" name="205" code="0205" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="10" />
+              </subjects>
+            </auditorium>
+            <auditorium id="BB24ED0E-F558-46DF-8AD2-1DD3167D98D4" name="206" code="0206" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="5" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+      </stations>
+    </region>
+    <region code="22" name="Алтайский край">
+      <stations>
+        <station id="08054CFD-B256-4B1D-8CDC-013EAB870739" code="9411" name="МБОУ &quot;Средняя общеобразовательная школа №38 с углубленным изучением отдельных предметов&quot;" school_id="5CB1C3F8-8385-4A3B-9094-4812F1EB899E">
+          <auditoriums>
+            <auditorium id="8E36001F-48EF-477C-9A28-3320193088B4" name="каб. 17, 2 этаж" code="0001" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="3" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+        <station id="1C81D784-DE4F-4289-9B92-99B2418FD647" code="9316" name="МБОУ &quot;Средняя общеобразовательная школа №89 с углубленным изучением отдельных предметов&quot;" school_id="D813F746-50CA-4A26-8347-7C3DCD064838">
+          <auditoriums>
+            <auditorium id="4B30051E-DFA5-4CCF-B675-036318C73220" name="каб.33, 3 этаж" code="0001" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="4" />
+              </subjects>
+            </auditorium>
+            <auditorium id="060C44AB-E2A1-43C8-88A7-6CF38AFAA12B" name="каб. 36, 3 этаж" code="0002" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="1" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+      </stations>
+    </region>
+    <region code="23" name="Краснодарский край">
+      <stations>
+        <station id="E97F0E25-2C78-4E7D-9FE1-8685E76E4F85" code="999" name="ППЭ 999 - РЦОИ">
+          <auditoriums>
+            <auditorium id="9CAD13A8-5F6C-42E9-814C-33F9601439C8" name="Ауд 1" code="0001" can_be_special="0" seats="24">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="1" />
+              </subjects>
+            </auditorium>
+            <auditorium id="A3E6926B-0D48-476B-BD20-4AE1CDCA3CB6" name="Ауд 2" code="0002" can_be_special="0" seats="24">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="1" />
+              </subjects>
+            </auditorium>
+            <auditorium id="7DE8EFB3-E1DF-4A52-ACB6-DF6C4BFDFBAB" name="Ауд 3" code="0003" can_be_special="0" seats="24">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="2" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+        <station id="F23A7AFE-D873-4937-9DA1-E7B1AF11984A" code="726" name="ППЭ 726 - Гимназия №82" school_id="9A01E01D-5CC8-4B80-9903-531E84C7FC07">
+          <auditoriums>
+            <auditorium id="744151BA-4C65-4500-A9D0-B869F308D7F4" name="Ауд 1" code="0001" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="11" />
+              </subjects>
+            </auditorium>
+            <auditorium id="8F686104-6ED0-49B9-8CA8-27638C60E608" name="Ауд 2" code="0002" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="8" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+      </stations>
+    </region>
+    <region code="24" name="Красноярский край">
+      <stations>
+        <station id="BBC5B9E7-0EA9-4F96-96CF-AF7124311DC3" code="9688" name="Октябрьский филиал № 2  КГКОУ КВСОШ № 9" school_id="04E19865-D89D-42F7-87F4-3E77D77EEB37">
+          <auditoriums>
+            <auditorium id="DF4DD3B7-F3C0-44EE-BEF4-3F10CAA22689" name="кабинет химии" code="0004" can_be_special="0" seats="10">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="1" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+        <station id="CB2F7065-1F68-4922-928E-D690214A6265" code="207" name="Муниципальное автономное общеобразовательное учреждение &quot;Лицей № 11&quot;" school_id="6C5CA66F-06B9-42A7-AF40-C28F2C12266B">
+          <auditoriums>
+            <auditorium id="E5AA5F25-DA61-4D8B-8902-79A15CDB0E8D" name="кабинет географии 1-15" code="0115" can_be_special="0" seats="18">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="1" />
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="1" />
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="1" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+      </stations>
+    </region>
+    <region code="25" name="Приморский край">
+      <stations>
+        <station id="307C91D9-3D10-4A21-8199-255D8636D986" code="90" name="Муниципальное общеобразовательное учреждение &lt;Средняя общеобразовательная школа №77 г. Владивостока&gt;" school_id="3B42FAB1-1624-4DBC-956F-B376AD6F704E">
+          <auditoriums>
+            <auditorium id="7F97D845-7222-400B-883B-99E7A6992772" name="Кабинет русского языка" code="0019" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="5" />
+              </subjects>
+            </auditorium>
+            <auditorium id="9BA65246-5E29-4A1A-9C22-60BD0491AF60" name="Кабинет химии" code="0020" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="6" />
+              </subjects>
+            </auditorium>
+            <auditorium id="7C5398F6-FE4E-488F-9842-AB727AF5F998" name="Кабинет русского языка" code="0021" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="6" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+        <station id="C1331C6F-3AF4-4AF0-BAC6-52A108C3D4FA" code="106" name="Федеральное государственное бюджетное образовательное учреждение высшего образования &lt;Владивостокский государственный университет экономики и сервиса&gt; (общеобразовательная школа-интернат среднего  общего образования для одарённых детей)" school_id="A0BB4A28-2148-489F-8352-03CE9C0BB7EF">
+          <auditoriums>
+            <auditorium id="E727D712-B275-4585-9880-58905A4289F6" name="0106" code="0106" can_be_special="0" seats="6">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="4" />
+              </subjects>
+            </auditorium>
+            <auditorium id="3FBEF80F-2603-4B48-A133-E465DF33F81A" name="творчества" code="0107" can_be_special="0" seats="12">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="2" />
+              </subjects>
+            </auditorium>
+            <auditorium id="1E255893-6C65-4DCC-90E9-DC60554BFE3A" name="0110" code="0110" can_be_special="0" seats="10">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="10" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+      </stations>
+    </region>
+    <region code="26" name="Ставропольский край">
+      <stations>
+        <station id="DC1FB474-ACA7-4587-8C4F-9BDE6636B2DA" code="103" name="Муниципальное бюджетное общеобразовательное учреждение Средняя общеобразовательная школа № 26" school_id="158EEB43-3D3B-4C66-9A9D-205B52629631">
+          <auditoriums>
+            <auditorium id="DB91C4B1-A1C9-4826-BA09-6B1FE4E864A8" name="Аудитория 1" code="0001" can_be_special="0" seats="20">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="1" />
+              </subjects>
+            </auditorium>
+            <auditorium id="2DBA15FB-7B2C-43F7-961E-8D692FFC3262" name="Аудитория 2" code="0002" can_be_special="0" seats="20">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="9" />
+              </subjects>
+            </auditorium>
+            <auditorium id="8E2F272A-FB3B-4D66-8A37-62E31FF81EF6" name="Аудитория 4" code="0004" can_be_special="0" seats="20">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="1" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+      </stations>
+    </region>
+    <region code="27" name="Хабаровский край">
+      <stations>
+        <station id="D0A3F06B-730C-4C39-9C1C-29A09F4A0BF6" code="11" name="Муниципальное бюджетное общеобразовательное учреждение средняя общеобразовательная школа № 6 г. Бикина Бикинского муниципального района Хабаровского края" school_id="6E26833B-78D2-4620-9FAF-6FBFE89B0510">
+          <auditoriums>
+            <auditorium id="2EB0CDDA-A991-4F6B-808D-FAEC23AF6419" name="16_литература" code="0007" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="0" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+        <station id="36ACEE33-D68E-4AA5-93DA-DC8239DE9D0E" code="104" name="Краевое государственное автономное общеобразовательное учреждение &quot;Краевой центр образования&quot;" school_id="7DD0FB6A-6C36-466A-B3F2-6DDF0F07363B">
+          <auditoriums>
+            <auditorium id="9FA8654C-D22E-4016-AF00-4301C9D9A332" name="201_русский язык" code="0001" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="0" />
+              </subjects>
+            </auditorium>
+            <auditorium id="84233FEE-DAB6-469F-86E8-5FEF7B608583" name="202_русский язык" code="0002" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="0" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+      </stations>
+    </region>
+    <region code="28" name="Амурская область">
+      <stations>
+        <station id="38118E69-F421-44ED-B417-E38ABE8144A2" code="1000" name="МАОУ &quot;Гимназия № 1 г.Благовещенска&quot;" school_id="D94BD9B6-F672-4310-98E7-03C961B4AAA2">
+          <auditoriums>
+            <auditorium id="94A61589-DAA8-4DFC-BD27-77D9B2189DE8" name="Кабинет 15" code="0002" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="1" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+        <station id="75CCAC73-2B8E-4A89-87C2-FDC11E5E45B0" code="1010" name="МАОУ &quot;Лицей № 6 г.Благовещенска&quot;" school_id="0433CC84-461B-4278-AC8F-652500E3C8C4">
+          <auditoriums>
+            <auditorium id="235F34BB-002C-4406-806D-DA57531EFC58" name="Кабинет 16" code="0001" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="1" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+      </stations>
+    </region>
+    <region code="29" name="Архангельская область">
+      <stations>
+        <station id="9E4AC407-3E6F-427C-802E-AE9F06E6805C" code="143" name="Государственное бюджетное профессиональное образовательное учреждение   Архангельской области  &quot;Архангельский индустриально-педагогический колледж&quot;" school_id="A9BB76B2-4698-416C-A7A0-D04B53D14B43">
+          <auditoriums>
+            <auditorium id="3B983040-9B82-4AC1-B926-4DCB8EE82826" name="ОБЖ" code="0031" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="1" />
+              </subjects>
+            </auditorium>
+            <auditorium id="2BF521C9-86A4-44BD-A934-B7BA404D7EBB" name="спец. дисциплины" code="0032" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="4" />
+              </subjects>
+            </auditorium>
+            <auditorium id="03481397-AD07-428B-893A-D9A407EF1B02" name="Биология и Химия" code="0034" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="1" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+      </stations>
+    </region>
+    <region code="30" name="Астраханская область">
+      <stations>
+        <station id="CBA1BEFA-7461-4F69-A61C-308A597B29CB" code="228" name="Муниципальное бюджетное общеобразовательное учреждение г. Астрахани &quot;Средняя общеобразовательная школа № 11 имени Гейдара Алиевича Алиева&quot;" school_id="CB16A026-5982-4126-BCCA-B3298B52D0C3">
+          <auditoriums>
+            <auditorium id="4426F101-3D7E-41B9-88E8-4DEE3F047FF1" name="кабинет музыки" code="0032" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="1" />
+              </subjects>
+            </auditorium>
+            <auditorium id="F6961147-74DD-4B9D-AEB8-2693FCB8B1D1" name="кабинет истории" code="0033" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="1" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+      </stations>
+    </region>
+    <region code="31" name="Белгородская область">
+      <stations>
+        <station id="58D036B0-FF80-4948-87C8-D9232F36D9BF" code="101" name="Муниципальное автономное общеобразовательное учреждение &quot;Центр образования № 1&quot; г. Белгорода" school_id="A11D01A3-1129-484C-820C-A40448CBC9FD">
+          <auditoriums>
+            <auditorium id="998BB4AF-E23B-4498-A5C1-54675ACCB6BF" name="201" code="0201" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="6" />
+              </subjects>
+            </auditorium>
+            <auditorium id="C3ACA66D-8C6A-475C-8FCF-EACDD46E8EFC" name="202" code="0202" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="4" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+        <station id="E51D8A49-176D-45F9-B8AA-DD5A248D136E" code="117" name="Муниципальное бюджетное общеобразовательное учреждение&quot;Средняя общеобразовательная школа №39&quot; г. Белгорода" school_id="EB94F901-881A-434F-A337-B35443953F63">
+          <auditoriums>
+            <auditorium id="E22390F2-E38E-4FDC-87B7-389D7169CBAD" name="3.11" code="0311" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="2" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+      </stations>
+    </region>
+    <region code="32" name="Брянская область">
+      <stations>
+        <station id="E813CACD-5BBD-49C4-BB37-F955EA8D05C5" code="29" name="Муниципальное бюджетное общеобразовательное учреждение &quot;Средняя общеобразовательная школа №28&quot; г. Брянска" school_id="CFD3BA2E-4C17-4522-B0F1-8127F657F18C">
+          <auditoriums>
+            <auditorium id="E3AFE0B5-AEBB-454E-B00A-89AED6CCA9E2" name="10" code="0010" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="5" />
+              </subjects>
+            </auditorium>
+            <auditorium id="7B90E197-91B1-4EFC-AA3D-A5C952464B9D" name="11" code="0011" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="2" />
+              </subjects>
+            </auditorium>
+            <auditorium id="A3E20A9E-A4EF-45BC-AB65-2716DD54A3D7" name="12" code="0012" can_be_special="0" seats="18">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="3" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+      </stations>
+    </region>
+    <region code="33" name="Владимирская область">
+      <stations>
+        <station id="E84E6D4E-F843-41E4-A823-230122029264" code="123" name="Государственное бюджетное учреждение Владимирской области &quot;Региональный информационно аналитический центр оценки качества образования&quot;" school_id="95172ED8-6F37-4E14-9FE2-D07D085D97C5">
+          <auditoriums>
+            <auditorium id="08F18906-8120-4F67-A8C3-750A4F16CAC9" name="аудитория 1" code="0001" can_be_special="0" seats="18">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="2" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+        <station id="7F2C30FE-911B-482F-B37A-51D49DF4FB60" code="19" name="Муниципальное бюджетное общеобразовательное учреждение  средняя общеобразовательная школа №7 г. Владимира" school_id="6F1C53A0-2661-4186-930D-C7A91F00AC67">
+          <auditoriums>
+            <auditorium id="7FA65A74-5F37-4410-A6A2-5EE77094174A" name="кабинет 27" code="0006" can_be_special="0" seats="18">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="6" />
+              </subjects>
+            </auditorium>
+            <auditorium id="041F7AC7-DE73-41BE-B0A5-959ADA26E832" name="кабинет 28" code="0007" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="1" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+      </stations>
+    </region>
+    <region code="34" name="Волгоградская область">
+      <stations>
+        <station id="92B2186B-5469-416F-A35D-3F0FF7B3524D" code="97" name="Муниципальное общеобразовательное учреждение &quot;Средняя школа №51 имени Героя Советского Союза А.М.Числова Тракторозаводского района&quot;" school_id="BF459692-6EF5-4784-852E-5D308759FE22">
+          <auditoriums>
+            <auditorium id="6594F734-6866-4AF2-8D95-E08043C8E24D" name="0004" code="0004" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="4" />
+              </subjects>
+            </auditorium>
+            <auditorium id="7062B6B1-C5EF-4BC8-BA7D-534FD8A7E514" name="0010" code="0010" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="8" />
+              </subjects>
+            </auditorium>
+            <auditorium id="FCC1D28E-2C96-4FDB-9BEA-4CE526D6044B" name="0014" code="0014" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="4" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+      </stations>
+    </region>
+    <region code="35" name="Вологодская область">
+      <stations>
+        <station id="F2B1A976-1B54-11E1-9EAE-003048CCECBE" code="15" name="СОШ №1 (угл.) г. Вологды" school_id="0AB43794-9B02-42CF-A9A4-F3788E504710">
+          <auditoriums>
+            <auditorium id="687A1D27-63C5-4EF4-BCB4-31A0BCB612CD" name="ИЗО" code="0304" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="1" />
+              </subjects>
+            </auditorium>
+            <auditorium id="E2D06B15-9A6B-4F6A-90B2-C7864F6ABC1D" name="истории" code="0318" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="3" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+        <station id="F2B1AED4-1B54-11E1-9EAE-003048CCECBE" code="23" name="Лицей №32 г. Вологды" school_id="C9D64367-F671-48B2-AF0A-96247AF45D3C">
+          <auditoriums>
+            <auditorium id="EF05D1C7-055F-4853-9987-9A4A050D533B" name="география" code="0004" can_be_special="1" seats="12">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="1" total="4" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+      </stations>
+    </region>
+    <region code="36" name="Воронежская область">
+      <stations>
+        <station id="033824FC-5C95-4DEE-8A36-01C4EA7DD6F8" code="36" name="МБОУ СОШ №88 c УИОП" school_id="497499F9-CD7B-4687-8FF3-92BCEE01C408">
+          <auditoriums>
+            <auditorium id="4B028479-5973-4628-A5B7-8ECDFA5A1B34" name="Кабинет39" code="0001" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="6" />
+              </subjects>
+            </auditorium>
+            <auditorium id="500891E2-B6FD-497F-A8D6-693E5984552F" name="Кабинет42" code="0002" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="11" />
+              </subjects>
+            </auditorium>
+            <auditorium id="7C66F256-AC12-4095-A6A6-D6E0DFE6E350" name="Кабинет47" code="0003" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="3" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+      </stations>
+    </region>
+    <region code="38" name="Иркутская область">
+      <stations>
+        <station id="89584275-7CC7-4238-9725-FD3BDD275B72" code="8770" name="ГАУ ДПО ИРО">
+          <auditoriums>
+            <auditorium id="AA2D1C96-8020-4441-A544-62F157C2FC90" name="223" code="0223" can_be_special="0" seats="20">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="11" />
+              </subjects>
+            </auditorium>
+            <auditorium id="6BC88B66-B069-4BE3-8885-EAE48DB68A1A" name="225" code="0225" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="10" />
+              </subjects>
+            </auditorium>
+            <auditorium id="B21C938B-47E7-4B22-A43B-6F52C9C6E4E8" name="226" code="0226" can_be_special="0" seats="16">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="12" />
+              </subjects>
+            </auditorium>
+            <auditorium id="A330BEBB-2A82-403D-9904-EC95E663270A" name="239" code="0239" can_be_special="0" seats="16">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="10" />
+              </subjects>
+            </auditorium>
+            <auditorium id="25802D9E-8F63-4BEE-8C77-C8BA1147AE2D" name="250" code="0250" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="11" />
+              </subjects>
+            </auditorium>
+            <auditorium id="30871FBB-6982-48DA-B2AB-6143A254E2E0" name="251" code="0251" can_be_special="0" seats="16">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="12" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+      </stations>
+    </region>
+    <region code="39" name="Калининградская область">
+      <stations>
+        <station id="3A502E4B-F2F6-42AC-9268-7F850F76BF34" code="106" name="ППЭ на дому (г. Калининград, ул. Кутаисская)">
+          <auditoriums>
+            <auditorium id="4404FC75-BC0A-4B7C-A097-828C81BCDBD6" name="1" code="0001" can_be_special="0" seats="1">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="1" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+        <station id="57F16069-2311-4CF5-9FFF-E791D890B2DE" code="12" name="Муниципальное автономное общеобразовательное учреждение города Калининграда средняя общеобразовательная школа № 31" school_id="B16182F5-E5DB-4FCF-945D-EA14494B1A87">
+          <auditoriums>
+            <auditorium id="DD31E1F4-9BAF-4719-9A54-EF0318F6371D" name="31" code="0031" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="2" />
+              </subjects>
+            </auditorium>
+            <auditorium id="7AAE1DA8-0E58-4C04-9C5B-64320C806CFB" name="33" code="0033" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="1" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+      </stations>
+    </region>
+    <region code="40" name="Калужская область">
+      <stations>
+        <station id="039DF277-A8A4-4924-AADD-1F25F9A0A201" code="6" name="МБОУ &quot;Средняя общеобразовательная школа № 12&quot; г. Калуги" school_id="0AB0E588-9D78-4345-BF3F-7CE50AAE5236">
+          <auditoriums>
+            <auditorium id="8736AC13-29B4-43CC-9A84-43095BD2B2CC" name="201" code="0201" can_be_special="0" seats="18">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="1" />
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="5" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+        <station id="85A6508D-9887-4C98-A7BB-30D01B9172AB" code="1" name="ГАОУ ДПО &quot;КГИРО&quot;" school_id="935BF057-42BA-4C92-AA59-672A566317C5" />
+      </stations>
+    </region>
+    <region code="41" name="Камчатский край">
+      <stations>
+        <station id="F41C3617-8963-4029-BC7B-9A50BF6575DA" code="9" name="КГАУ &quot;Камчатский центр информатизации и оценки качества образования&quot;">
+          <auditoriums>
+            <auditorium id="DB21A72D-8795-454E-97DB-6ED4DD3A9B01" name="401Л" code="0001" can_be_special="0" seats="16">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="2" />
+              </subjects>
+            </auditorium>
+            <auditorium id="DF63318D-D70F-41C2-8564-78827784786B" name="402Л" code="0002" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="1" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+      </stations>
+    </region>
+    <region code="42" name="Кемеровская область">
+      <stations>
+        <station id="FA858A69-9651-419B-8E13-666DED0FD4C7" code="701" name="ГБНОУ &quot;ГМЛИ&quot;" school_id="77B5C639-B39B-4D22-B85D-A7CB30D11A82">
+          <auditoriums>
+            <auditorium id="44C69162-0537-4BA3-98D9-50398AE4C8BB" name="Ангийский язык" code="0206" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="7" />
+              </subjects>
+            </auditorium>
+            <auditorium id="78198213-95DA-4F30-90A4-B167F0FE2FB9" name="Математика" code="0207" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="3" />
+              </subjects>
+            </auditorium>
+            <auditorium id="039BDC69-70D3-4664-B69E-76AFA2D06F5A" name="Математика" code="0208" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="1" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+        <station id="B8118581-FA9A-46BB-A1C3-79BA28E29EC5" code="1049" name="ГПОУ ТТГТиСО" school_id="DDA7D2C1-88B9-4237-B480-B5C7C03B06B9">
+          <auditoriums>
+            <auditorium id="22BEBFAA-8DC8-4070-BEC0-AAF0FAE9DCCA" name="Физика" code="0001" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="1" />
+              </subjects>
+            </auditorium>
+            <auditorium id="C6902110-5B85-4AA6-BD9C-D94435AE9038" name="Химия" code="0002" can_be_special="0" seats="24">
+              <subjects>
+                <subject name="Математика" with_disabilities="0" special="0" total="14" />
+              </subjects>
+            </auditorium>
+            <auditorium id="0C8B9A35-F271-4FEA-BBEB-EE7A6F70C26B" name="Биология" code="0003" can_be_special="0" seats="24">
+              <subjects>
+                <subject name="Математика" with_disabilities="0" special="0" total="13" />
+              </subjects>
+            </auditorium>
+            <auditorium id="37D3886F-6B66-41C1-A2FE-F750179B8DE5" name="Информатика и ИКТ" code="0009" can_be_special="0" seats="20">
+              <subjects>
+                <subject name="Математика" with_disabilities="0" special="0" total="13" />
+              </subjects>
+            </auditorium>
+            <auditorium id="8DDEB3F7-5C56-42F5-9EE7-0B7B404EF9A0" name="Русский язык" code="0014" can_be_special="0" seats="24">
+              <subjects>
+                <subject name="Математика" with_disabilities="0" special="0" total="14" />
+              </subjects>
+            </auditorium>
+            <auditorium id="91F14BDE-1B2B-4260-BABC-B7C51DF2426B" name="Физика" code="0016" can_be_special="0" seats="24">
+              <subjects>
+                <subject name="Математика" with_disabilities="0" special="0" total="14" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+      </stations>
+    </region>
+    <region code="43" name="Кировская область">
+      <stations>
+        <station id="51FB6C2F-FADE-4250-9EFB-A28C65D2798D" code="9433" name="Муниципальное бюджетное общеобразовательное учреждение &quot;Вечерняя школа&quot; города  Кирова" school_id="3CCE0496-94D9-4193-B65D-1B3420E5D581">
+          <auditoriums>
+            <auditorium id="5974D865-21B0-4493-B670-A8B70ABB3488" name="кабинет 5" code="0001" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="1" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+      </stations>
+    </region>
+    <region code="45" name="Курганская область">
+      <stations>
+        <station id="9BCAD909-8CA8-4B9F-8E46-E37F39D96EE3" code="109" name="Муниципальное бюджетное общеобразовательное учреждение города Кургана &quot;Гимназия № 31&quot;" school_id="2F581B2F-6152-44AF-917F-A5923479B907">
+          <auditoriums>
+            <auditorium id="134B3372-ADF7-45E2-9EFD-DC05FFE84F39" name="кабинет 116" code="0116" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="0" />
+              </subjects>
+            </auditorium>
+            <auditorium id="51780078-CF0D-4E4E-B6BB-A866A22EFC6B" name="кабинет 217" code="0217" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="0" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+      </stations>
+    </region>
+    <region code="46" name="Курская область">
+      <stations>
+        <station id="FE196550-F80E-4B05-B0B1-18659425742C" code="1" name="Муниципальное  бюджетное общеобразовательное учреждение &quot;Средняя общеобразовательная школа № 31 имени А.М. Ломакина&quot;" school_id="192FEB4A-75A6-4214-B4CD-0B648EEA085C">
+          <auditoriums>
+            <auditorium id="E5C761EC-B77F-4770-8CE1-E0CD4FBFEA93" name="Кабинет нач. классов 3" code="0006" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="2" />
+              </subjects>
+            </auditorium>
+            <auditorium id="D0633C12-F6A1-4075-9116-021DFC39BF65" name="Кабинет биологии 2" code="0007" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="2" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+        <station id="E0966AA8-6EDB-4131-B591-8AB42F3176B0" code="14" name="Муниципальное бюджетное общеобразовательное учреждение &quot;Средняя общеобразовательная школа № 36&quot;" school_id="26385054-67C8-4D0C-9D0D-8BEA11FB7D0D">
+          <auditoriums>
+            <auditorium id="DE0959A6-767A-4259-B32F-8F7A046565BB" name="кабинет русского языка" code="0001" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="2" />
+              </subjects>
+            </auditorium>
+            <auditorium id="085A7AA1-B558-4196-9134-F03736B2FF16" name="кабинет начальных клас" code="0002" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="8" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+      </stations>
+    </region>
+    <region code="47" name="Ленинградская область">
+      <stations>
+        <station id="D67C36CB-58DA-4006-88A1-05F77D8B130A" code="40" name="Муниципальное бюджетное общеобразовательное учреждение``Средняя общеобразовательная школа №3 г. Никольское``" school_id="2A9767CA-0AE8-49B0-9164-B58BDEADC079">
+          <auditoriums>
+            <auditorium id="F3509EA6-AC85-4407-891C-4373C4DE6AC4" name="5" code="0005" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="2" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+        <station id="4ADAD141-4DF1-4598-8C33-7FABF5E20A4D" code="6" name="Муниципальное общеобразовательное учреждение `` Средняя общеобразовательная школа с углублённым изучением отдельных предметов №2`` г. Всеволожска" school_id="6EA6808D-4123-49B1-9AE9-4E6EC3991237">
+          <auditoriums>
+            <auditorium id="77CF37F4-2E5E-41CC-B506-78C05F5AE46B" name="1" code="0001" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="12" />
+              </subjects>
+            </auditorium>
+            <auditorium id="E03AF3CF-B627-4ED1-89DA-709531ED313D" name="2" code="0002" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="2" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+      </stations>
+    </region>
+    <region code="48" name="Липецкая область">
+      <stations>
+        <station id="B4CDFC17-AA68-49D2-949C-9636CA3C37C9" code="943" name="Кадетская школа Липецкой области" school_id="C7490928-36CE-4053-BF0F-4038C8DBF3D2">
+          <auditoriums>
+            <auditorium id="9D526144-3B44-471F-86C0-F0CE239BCEA7" name="15" code="0002" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="1" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+      </stations>
+    </region>
+    <region code="49" name="Магаданская область">
+      <stations>
+        <station id="BAEF8305-BCDD-4100-A78A-B750F0066CF5" code="1500" name="Региональный центр обработки информации" school_id="105F3013-D7F5-4617-8D83-FFBC1D30021A">
+          <auditoriums>
+            <auditorium id="4C1551B8-A35A-4C7F-BA38-353B8BA5BEC2" name="353" code="0003" can_be_special="0" seats="12">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="2" />
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="1" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+      </stations>
+    </region>
+    <region code="50" name="Московская область">
+      <stations>
+        <station id="31312F4C-3E47-47A3-BEBA-113F1928C4AD" code="201" name="Муниципальное общеобразовательное учреждение &quot;Гимназия&quot; г.Бронницы" school_id="E835BF01-E417-43C9-A4B5-45733036185F">
+          <auditoriums>
+            <auditorium id="7939C044-F2C4-4CAB-B572-E4CE38A8B3DB" name="315" code="0001" can_be_special="0" seats="18">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="14" />
+              </subjects>
+            </auditorium>
+            <auditorium id="D97E6910-60CD-497B-B4DE-92E11F8E1CC9" name="316" code="0002" can_be_special="0" seats="18">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="16" />
+              </subjects>
+            </auditorium>
+            <auditorium id="7CBA20BC-6628-49EB-945E-F5586CA0EEC2" name="317" code="0003" can_be_special="0" seats="18">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="16" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+        <station id="0E4F0F8F-9D9E-4A52-B947-1807AE81AC2C" code="6105" name="МАОУ Лицей №13 г. Химки (АКЛ)" school_id="CC90AB27-CAA7-4D19-ABBB-90F04DC84F5E">
+          <auditoriums>
+            <auditorium id="6438F2FE-EA42-4132-9CA6-0C405346F049" name="205" code="0001" can_be_special="1" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="1" total="15" />
+              </subjects>
+            </auditorium>
+            <auditorium id="1F129785-6A09-4B0D-BEE3-8BFE9B884ECA" name="206" code="0002" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="15" />
+              </subjects>
+            </auditorium>
+            <auditorium id="E462CD4F-C016-4A62-B2DA-1DC838D59B9A" name="207" code="0003" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="15" />
+              </subjects>
+            </auditorium>
+            <auditorium id="004C6B87-CD5F-423B-9E6B-0CD627DBAE88" name="208" code="0004" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="15" />
+              </subjects>
+            </auditorium>
+            <auditorium id="F75A2E12-6B48-4B61-BAFC-2084A15C3AE0" name="209" code="0005" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="15" />
+              </subjects>
+            </auditorium>
+            <auditorium id="175C6D05-DB80-41A1-B029-23061B8F723C" name="210" code="0006" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="15" />
+              </subjects>
+            </auditorium>
+            <auditorium id="2A428177-4C4A-4EB9-95BE-89655DD67F5F" name="213" code="0007" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="15" />
+              </subjects>
+            </auditorium>
+            <auditorium id="35B2A6FB-695A-4749-9410-8C6700B57617" name="214" code="0008" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="15" />
+              </subjects>
+            </auditorium>
+            <auditorium id="99AA536A-AB89-442D-9D94-7D6C38E27EAE" name="215" code="0009" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="15" />
+              </subjects>
+            </auditorium>
+            <auditorium id="8EA9627C-E691-42A7-8AB2-3453E13BFDA9" name="307" code="0010" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="15" />
+              </subjects>
+            </auditorium>
+            <auditorium id="0D30CD07-FB03-4D30-9CD4-19CB723B634C" name="308" code="0011" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="15" />
+              </subjects>
+            </auditorium>
+            <auditorium id="C9646977-9226-49A7-8ABE-C745591D1736" name="311" code="0012" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="14" />
+              </subjects>
+            </auditorium>
+            <auditorium id="2D591C11-7D10-4195-84E1-8EAC720B4FB0" name="312" code="0013" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="14" />
+              </subjects>
+            </auditorium>
+            <auditorium id="55F916A3-281E-49DC-B53C-A38B3EBEF36C" name="314" code="0014" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="8" />
+              </subjects>
+            </auditorium>
+            <auditorium id="F74D6F2A-CFB0-4C1D-A764-7C705ABA611C" name="114" code="0019" can_be_special="1" seats="2">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="2" special="1" total="2" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+        <station id="37ECC378-85F6-4BF1-9588-4B35842056E8" code="3502" name="Муниципальное бюджетное общеобразовательное учреждение &quot;Средняя общеобразовательная школа № 10 им.А.К.Астрахова&quot;" school_id="CA597D98-94C1-4B9C-A486-FDD0E874B090">
+          <auditoriums>
+            <auditorium id="07D22EC7-D30C-43B2-8CE2-21A643259DAF" name="301" code="0301" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="15" />
+              </subjects>
+            </auditorium>
+            <auditorium id="07622D89-72FF-4EB5-82F3-AC08855D36B5" name="302" code="0302" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="15" />
+              </subjects>
+            </auditorium>
+            <auditorium id="AC494613-56D8-4CDF-9290-3D65F7D9821E" name="303" code="0303" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="15" />
+              </subjects>
+            </auditorium>
+            <auditorium id="2F159030-2A86-4820-A458-4F296BCEBBC5" name="304" code="0304" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="15" />
+              </subjects>
+            </auditorium>
+            <auditorium id="FA0C69E9-8633-4E52-B8CA-220A3D08A778" name="305" code="0305" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="15" />
+              </subjects>
+            </auditorium>
+            <auditorium id="7E344F80-24EC-40D1-A5BD-736BF8B26451" name="309" code="0309" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="15" />
+              </subjects>
+            </auditorium>
+            <auditorium id="79C4548D-C912-40CC-BB8E-773F27ECDE50" name="310" code="0310" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="14" />
+              </subjects>
+            </auditorium>
+            <auditorium id="CF7BC93B-7392-4318-AE8F-9F6022D01B2D" name="312" code="0312" can_be_special="1" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="1" total="14" />
+              </subjects>
+            </auditorium>
+            <auditorium id="0D976F87-DE7E-4CD4-A678-BE105C27A0C9" name="313" code="0313" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="14" />
+              </subjects>
+            </auditorium>
+            <auditorium id="995D9479-CDB9-42E2-940E-6ADA94F79F42" name="401" code="0401" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="14" />
+              </subjects>
+            </auditorium>
+            <auditorium id="2BE769D1-BB20-4216-AEAC-D5C3696CE5E7" name="402" code="0402" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="13" />
+              </subjects>
+            </auditorium>
+            <auditorium id="0C2875F6-F278-49A9-8071-83FE01E26F6B" name="403" code="0403" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="14" />
+              </subjects>
+            </auditorium>
+            <auditorium id="FE598280-CA0A-44A0-9893-8B8A3B9FE764" name="404" code="0404" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="14" />
+              </subjects>
+            </auditorium>
+            <auditorium id="2C0F43AC-9407-4841-84E7-EC333AEA4404" name="409" code="0409" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="13" />
+              </subjects>
+            </auditorium>
+            <auditorium id="70D4F84E-0A6A-4C75-B110-E3A49A4F1978" name="412" code="0412" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="13" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+        <station id="D122CCEA-0097-4A32-8176-F4A13075EDD3" code="106" name="МБОУ Гимназия №1 г.Балашиха" school_id="305A35CE-56DD-448F-949A-57747E25DEF2">
+          <auditoriums>
+            <auditorium id="3ECEE07D-E1A8-4810-8AF0-873C86E99101" name="2" code="0002" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="8" />
+              </subjects>
+            </auditorium>
+            <auditorium id="E91FEE1F-D136-43C5-8AF4-483362758BA1" name="3" code="0003" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="8" />
+              </subjects>
+            </auditorium>
+            <auditorium id="A99A7C86-4F5E-49D0-A929-2AB92C233B18" name="4" code="0004" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="6" />
+              </subjects>
+            </auditorium>
+            <auditorium id="4B6BCB1A-C44F-440A-B126-ED92B33CBD63" name="5" code="0005" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="5" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+      </stations>
+    </region>
+    <region code="51" name="Мурманская область">
+      <stations>
+        <station id="19353DEC-A00B-417C-83E9-E7F568B90510" code="970" name="Муниципальное бюджетное общеобразовательное учреждение г. Мурманска &quot;Средняя общеобразовательная школа № 41&quot;" school_id="75E1E11C-6B34-4635-8A97-CFA17B718606">
+          <auditoriums>
+            <auditorium id="29A04714-6F85-431F-B9ED-10F622B5890B" name="математика" code="0014" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="1" />
+              </subjects>
+            </auditorium>
+            <auditorium id="52AB9E21-BCF1-4CFB-A923-53A2716A5C88" name="география" code="0015" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="1" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+      </stations>
+    </region>
+    <region code="52" name="Нижегородская область">
+      <stations>
+        <station id="A140372E-FC7F-441D-954F-C69B6C517C22" code="572" name="Муниципальное бюджетное общеобразовательное учреждение &quot;Школа № 11 имени Г.С.Бересневой&quot;" school_id="8026BD9E-4D44-40EC-97CD-11754E1DE522">
+          <auditoriums>
+            <auditorium id="FCEF0BB8-2274-4D00-966B-5121E744A787" name="ук1" code="0001" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="2" />
+              </subjects>
+            </auditorium>
+            <auditorium id="5586972C-C378-488E-B9D0-C909F8CAE6E7" name="ук11" code="0011" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="2" />
+              </subjects>
+            </auditorium>
+            <auditorium id="ABFDEF94-336F-48FA-8050-B255B420DF49" name="ук20" code="0020" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="1" />
+              </subjects>
+            </auditorium>
+            <auditorium id="AA251956-A1A5-4D74-89CF-8ED382A7616A" name="ук21" code="0021" can_be_special="1" seats="15">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="1" special="1" total="1" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+        <station id="AB0CC6CA-DD22-4911-95B9-DC9331414910" code="594" name="МАОУ &quot;Школа с углубленным изучением отдельных предметов № 183 имени Р.Алексеева&quot;" school_id="5C38C34F-91FA-45A1-97A7-5AF7328B43FE">
+          <auditoriums>
+            <auditorium id="255CB05D-73A0-4A8F-B938-E270886582EE" name="12" code="0012" can_be_special="0" seats="18">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="8" />
+              </subjects>
+            </auditorium>
+            <auditorium id="10C7EE0C-6125-4F1E-A66F-139D257AC86B" name="13" code="0013" can_be_special="0" seats="18">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="8" />
+              </subjects>
+            </auditorium>
+            <auditorium id="6DE023F9-9E56-4915-8E90-CABC31C78770" name="21" code="0021" can_be_special="1" seats="12">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="1" special="1" total="1" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+      </stations>
+    </region>
+    <region code="54" name="Новосибирская область">
+      <stations>
+        <station id="A09BE84E-C33A-4240-98F0-27DD7F8A0238" code="394" name="Муниципальное бюджетное общеобразовательное учреждение  города Новосибирска &quot;Лицей № 200&quot;" school_id="A640D2BB-9558-4669-B5A6-446B62C4DBB1">
+          <auditoriums>
+            <auditorium id="6EEE40B6-0839-4E69-A817-ED3C592E0E0C" name="207" code="0207" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="13" />
+              </subjects>
+            </auditorium>
+            <auditorium id="DB8F3164-0688-4E30-AF58-811FA8C9765A" name="208" code="0208" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="7" />
+              </subjects>
+            </auditorium>
+            <auditorium id="6162CE00-A991-47AE-BC06-C8D84F8B9691" name="216" code="0216" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="6" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+        <station id="FF678E1E-C90F-4477-B61E-F7A82A7883D8" code="435" name="ФКУ ИК - 9 ГУФСИН России по Новосибирской области" school_id="1EBEE33D-C1AE-4EF6-9EC3-FDA42F173548" />
+      </stations>
+    </region>
+    <region code="55" name="Омская область">
+      <stations>
+        <station id="A6726833-C2B2-4C28-9AC8-478AE834D2CC" code="8" name="Бюджетное общеобразовательное учреждение города Омска &quot;Гимназия № 150 &quot;" school_id="EFB5BC88-CE60-4E63-A7AC-FA1F1A09F336">
+          <auditoriums>
+            <auditorium id="DFC02775-50B6-49D1-BBD8-A561BD23E5AC" name="203" code="0203" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="4" />
+              </subjects>
+            </auditorium>
+            <auditorium id="741B2D3D-DD9A-494A-8ACC-F94E2AC27F68" name="204" code="0204" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="2" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+        <station id="D8FFE3CF-A784-473E-9B34-A2B0F24BB59F" code="14" name="Бюджетное общеобразовательное учреждение города Омска &quot;Гимназия № 43&quot;" school_id="0342F009-2FA6-4721-94DA-ACBE8E67A2BC">
+          <auditoriums>
+            <auditorium id="E7FBDE05-EF40-4D45-A24F-10C3E72B35B7" name="24" code="0024" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="5" />
+              </subjects>
+            </auditorium>
+            <auditorium id="7D644EB5-4206-4748-83E5-D56ECCDA51EF" name="25" code="0025" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="1" />
+              </subjects>
+            </auditorium>
+            <auditorium id="F6A0689A-1A09-4550-AC73-3A19E831AEC4" name="26" code="0026" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="1" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+      </stations>
+    </region>
+    <region code="56" name="Оренбургская область">
+      <stations>
+        <station id="40353F29-55A5-4BC8-8718-2C3941FE0DB5" code="261" name="Муниципальное общеобразовательное бюджетное учреждение &quot;Лицей № 8&quot;" school_id="4CA46F05-B930-4FA2-9925-5F33C21896BD">
+          <auditoriums>
+            <auditorium id="D0F3EA35-50FF-4070-B700-91BD5976431A" name="31" code="0001" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="0" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+      </stations>
+    </region>
+    <region code="57" name="Орловская область">
+      <stations>
+        <station id="F9DB9088-E448-4405-AB10-20D83778EDB5" code="6" name="Бюджетное профессиональноое образовательное учреждение Орловской области &quot;Орловский техникум технологии и предпринимательства имени В.А. Русанова&quot;" school_id="77614ED0-2B38-48F8-8884-9EC4D189CF8A">
+          <auditoriums>
+            <auditorium id="45B6AEC3-C8B2-4787-B894-BD30241770E8" name="№31-Каб.общ.дисциплин" code="0013" can_be_special="0" seats="18">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="1" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+        <station id="1E046E15-6DAA-4EEF-A473-93786EC90CE5" code="36" name="КОУ Орловской области &quot;Нарышкинская средняя общеобразовательная школа при исправительном учреждении&quot;" school_id="69135A26-B13F-4ED3-A670-29440A8F4C51">
+          <auditoriums>
+            <auditorium id="3566CAFA-EA0E-4A12-B039-BD5AA32D64FD" name="1" code="0001" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="1" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+      </stations>
+    </region>
+    <region code="58" name="Пензенская область">
+      <stations>
+        <station id="76DFD1E1-44DD-4021-BC1E-2491D70B4E75" code="107" name="МБОУ &quot;СОШ № 7&quot; г. Пензы" school_id="F2432192-0B7C-4FC4-8C68-6B6F9A803D7C">
+          <auditoriums>
+            <auditorium id="B6F86EFC-EA1E-433C-AA5B-56471F554A66" name="кабинет биологии" code="0035" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="2" />
+              </subjects>
+            </auditorium>
+            <auditorium id="5EE05AC0-7E5B-41F4-AC2D-0CDF694D558D" name="кабинет русского языка" code="0036" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="6" />
+              </subjects>
+            </auditorium>
+            <auditorium id="AABF0DB8-DDA5-470C-A97D-33B3687BD70F" name="кабинет начальных кл" code="0037" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="3" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+        <station id="466812D9-9CD8-42B9-8336-B050BF59B58F" code="1033" name="На дому">
+          <auditoriums>
+            <auditorium id="DEB08479-59F3-4687-9F63-444A4C441BAB" name="Комната" code="0001" can_be_special="0" seats="1">
+              <subjects>
+                <subject name="Математика" with_disabilities="1" special="0" total="1" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+      </stations>
+    </region>
+    <region code="59" name="Пермский край">
+      <stations>
+        <station id="72F1F294-6D5E-4915-BFD1-B5F32FE2CB8A" code="802" name="ППЭ 802  (СОШ № 22)" school_id="A7278059-6277-42E9-92DD-85EFB4639CA6">
+          <auditoriums>
+            <auditorium id="32D8469F-49E3-4D3F-8127-761534C366CE" name="2" code="0002" can_be_special="0" seats="18">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="10" />
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="0" />
+              </subjects>
+            </auditorium>
+            <auditorium id="206E0907-CEF6-49F5-9F56-023602AB4479" name="3" code="0003" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="11" />
+              </subjects>
+            </auditorium>
+            <auditorium id="6101A31B-54AC-47E3-B7E5-1F4894CA7B9D" name="4" code="0004" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="15" />
+              </subjects>
+            </auditorium>
+            <auditorium id="ADD5D9A3-3B8F-4558-8A5D-CFF88C85D8AC" name="5" code="0005" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="15" />
+              </subjects>
+            </auditorium>
+            <auditorium id="921C0EAD-4A3A-4FC6-9321-FF0AAC77CFE8" name="6" code="0006" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="14" />
+              </subjects>
+            </auditorium>
+            <auditorium id="F34AF8D0-A2F4-401D-9883-7B4804C5F555" name="7" code="0007" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="15" />
+              </subjects>
+            </auditorium>
+            <auditorium id="B6E23166-1F82-4C74-9215-6D06DA8D898F" name="8" code="0008" can_be_special="0" seats="18">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="15" />
+              </subjects>
+            </auditorium>
+            <auditorium id="C2EE4D09-815C-4456-AA4B-10D27D10959D" name="9" code="0009" can_be_special="0" seats="12">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="12" />
+              </subjects>
+            </auditorium>
+            <auditorium id="D27BBC87-4EDB-4133-8027-8D12B38E9743" name="10" code="0010" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="1" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+      </stations>
+    </region>
+    <region code="60" name="Псковская область">
+      <stations>
+        <station id="27BE3981-7345-5047-4A2B-CCD467996630" code="46" name="Муниципальное бюджетное общеобразовательное учреждение &quot;Вечерняя (сменная) общеобразовательная школа № 1&quot;" school_id="FE9E07D3-06F6-4E36-A908-32C2A57ECCF7">
+          <auditoriums>
+            <auditorium id="B5AA43F3-0B90-4509-AD25-45195E03E9BA" name="2" code="0002" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="4" />
+              </subjects>
+            </auditorium>
+            <auditorium id="CDCA0BB5-9ECA-4D74-8881-69B7C75CC24A" name="4" code="0004" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="2" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+      </stations>
+    </region>
+    <region code="61" name="Ростовская область">
+      <stations>
+        <station id="3873C606-E5A5-40F7-9A5D-03BBCD430C72" code="120" name="МАОУ &quot;Юридическая гимназия №9 имени  М.М. Сперанского&quot;" school_id="64977662-9A4A-4FFC-B1B3-B94370F5F8D9">
+          <auditoriums>
+            <auditorium id="487612D0-DD77-4D6C-A193-0E66A52CFA35" name="203" code="0011" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="5" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+        <station id="9CAA7FAE-97D3-4E52-8ABB-CB7DA2303A9C" code="124" name="МБОУ &quot;Школа №47&quot;" school_id="766DE102-298F-43C7-8032-E6AA76A4B81F">
+          <auditoriums>
+            <auditorium id="D070FF48-10BD-4ADF-9AE9-0E2A1A1F8785" name="37" code="0001" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="5" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+        <station id="0F3A3DCB-4DCD-4ADE-A647-E2A7348C12A8" code="9202" name="МБОУ &quot;Лицей № 56&quot;" school_id="D5C0A3D1-CA85-4D42-BF21-57FEB707D518">
+          <auditoriums>
+            <auditorium id="B1686DF3-D498-4078-8D62-046A87CFCB74" name="211" code="0001" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="2" />
+              </subjects>
+            </auditorium>
+            <auditorium id="B8ED0B33-DA98-4A97-A314-B5EE09FF557C" name="212" code="0002" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="4" />
+              </subjects>
+            </auditorium>
+            <auditorium id="3AAF0134-D439-4D57-88B0-7CA467B9D3D0" name="213" code="0003" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="1" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+      </stations>
+    </region>
+    <region code="62" name="Рязанская область">
+      <stations>
+        <station id="5B3FCCDD-8439-4518-A224-F17F20207E8B" code="42" name="МБОУ &quot;Школа № 13&quot;" school_id="2E83C5C9-8B76-4792-BF98-25340DBF9630">
+          <auditoriums>
+            <auditorium id="418DB581-CEAA-4257-B6EA-91CD141DA34D" name="10" code="0010" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="3" />
+              </subjects>
+            </auditorium>
+            <auditorium id="6BE260A2-2A96-443A-BD23-E9111FEFF223" name="11" code="0011" can_be_special="1" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="1" special="1" total="1" />
+              </subjects>
+            </auditorium>
+            <auditorium id="68EF5A1E-0156-4AEF-BB4E-4E6176228CD4" name="12" code="0012" can_be_special="0" seats="18">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="1" />
+              </subjects>
+            </auditorium>
+            <auditorium id="F1738C1A-4CAC-4018-B7C4-DFA0F1A22D3B" name="13" code="0013" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="1" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+      </stations>
+    </region>
+    <region code="63" name="Самарская область">
+      <stations>
+        <station id="D348CC1A-7CB4-492C-BFD2-33D49066C0AF" code="41" name="МБОУ Школа № 28 г.о. Самара" school_id="466262BF-3FE5-496E-9CA6-81E6F19478A4">
+          <auditoriums>
+            <auditorium id="8C895AD1-31D4-4B2B-8725-9A37B24A5100" name="56" code="0001" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="3" />
+              </subjects>
+            </auditorium>
+            <auditorium id="C1B1E2C6-D595-493A-88FE-FC1A889224E7" name="55" code="0002" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="4" />
+              </subjects>
+            </auditorium>
+            <auditorium id="92C6809E-BA38-4D07-A06F-313AFB2F0A21" name="54" code="0003" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="2" />
+              </subjects>
+            </auditorium>
+            <auditorium id="58D4263E-FD36-4028-938A-05BAB0465981" name="51" code="0004" can_be_special="1" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="1" total="1" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+      </stations>
+    </region>
+    <region code="64" name="Саратовская область">
+      <stations>
+        <station id="06A992C0-2C2C-4D57-A04D-25A0F56AC3BA" code="449" name="Муниципальное общеобразовательное учреждение &quot;Средняя общеобразовательная школа № 7&quot;" school_id="F78006D8-D976-4DDC-B99A-0F56CB9FC67C">
+          <auditoriums>
+            <auditorium id="6306C02B-2025-470C-81EC-D2DBF5D29959" name="кабинет биологии № 18" code="0001" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="2" />
+              </subjects>
+            </auditorium>
+            <auditorium id="10785C95-B532-4259-BCCA-C5D4F98344B4" name="кабинет математ. № 19" code="0002" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="1" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+        <station id="E31042AB-3BD0-4D7F-9351-DDFE9B945D93" code="7777" name="Государственное автономное учреждение Саратовской области &quot;Региональный центр оценки качества образования&quot;">
+          <auditoriums>
+            <auditorium id="D43E1766-2D93-46A1-B433-EA7F2603F956" name="11" code="0011" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="2" />
+              </subjects>
+            </auditorium>
+            <auditorium id="18E0953F-CAC3-4A28-9600-44A0A7BE0A89" name="12" code="0012" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="3" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+      </stations>
+    </region>
+    <region code="65" name="Сахалинская область">
+      <stations>
+        <station id="FA083AB5-1512-4640-9B80-04C40E765028" code="132" name="Муниципальное автономное общеобразовательное учреждение средняя общеобразовательная школа №32 города Южно-Сахалинска" school_id="6842DB1D-579E-4DDE-942B-06DE318F5A8D">
+          <auditoriums>
+            <auditorium id="C139E187-ADC3-43D4-9B3A-9E4A3951AB03" name="каб. 26 англ. яз." code="0001" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="2" />
+              </subjects>
+            </auditorium>
+            <auditorium id="F2026064-3535-44B3-9A89-AFC2BC57DDD9" name="каб. 27 математики" code="0002" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="6" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+      </stations>
+    </region>
+    <region code="66" name="Свердловская область">
+      <stations>
+        <station id="AE7BD880-4CFC-0130-364C-005056B30483" code="8301" name="8301, 830118 МАОУ СОШ №208 с углубленным изучением отдельных предметов" school_id="EE999F80-EDFA-012F-5EE9-001B7838B0DE">
+          <auditoriums>
+            <auditorium id="2EB4D0F6-A00D-4492-969E-E8058D9348DC" name="кабинет обществознания" code="0204" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="13" />
+              </subjects>
+            </auditorium>
+            <auditorium id="B6EE9F85-2CAF-4130-B555-5A2CD1E036C7" name="кабинет русского языка" code="0225" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="15" />
+              </subjects>
+            </auditorium>
+            <auditorium id="5E9887F6-8783-4DB3-A906-97F3A55ECF5D" name="кабинет биологии" code="0229" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="14" />
+              </subjects>
+            </auditorium>
+            <auditorium id="B6873D86-0972-4032-ACDE-C37D3DD02466" name="кабинет химии" code="0231" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="13" />
+              </subjects>
+            </auditorium>
+            <auditorium id="83C8C10A-D183-4DBE-AB55-8F82F4EFE478" name="кабинет математики" code="0233" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="15" />
+              </subjects>
+            </auditorium>
+            <auditorium id="D72BC2A3-06E7-4675-86AD-31650267B238" name="кабинет начальных клас" code="0234" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="15" />
+              </subjects>
+            </auditorium>
+            <auditorium id="C12E4F55-DB42-4D76-9AFE-E56AC5817F96" name="кабинет русского языка" code="0303" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="14" />
+              </subjects>
+            </auditorium>
+            <auditorium id="87BE672E-6958-4974-9262-1B569B8D0859" name="кабинет русского языка" code="0304" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="15" />
+              </subjects>
+            </auditorium>
+            <auditorium id="B8E4F5D1-17D5-436C-B100-0CDEE097B847" name="кабинет русского языка" code="0305" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="15" />
+              </subjects>
+            </auditorium>
+            <auditorium id="40984B5C-20D6-4E98-86A3-0268BF94BE30" name="кабинет русского языка" code="0306" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="15" />
+              </subjects>
+            </auditorium>
+            <auditorium id="C8C3109F-4E72-4A92-B245-F2FB1052E83E" name="кабинет русского языка" code="0307" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="14" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+        <station id="529746D0-6114-0132-348C-005056BD0BC4" code="8223" name="8223, 821308 ГАОУ ДПО СО &quot;ИРО&quot;" school_id="15F5AA30-7C51-0132-F1D7-005056BD45C6">
+          <auditoriums>
+            <auditorium id="FC23A2BE-F05E-4204-9B8D-D46B297A7432" name="Аудитория 107" code="0107" can_be_special="0" seats="16">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="16" />
+              </subjects>
+            </auditorium>
+            <auditorium id="E51D93C6-9907-40C9-BDF1-3BB2F9E3F01D" name="Аудитория 108" code="0108" can_be_special="1" seats="8">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="2" special="1" total="2" />
+              </subjects>
+            </auditorium>
+            <auditorium id="5A937D29-075D-4EE3-8158-30C8EB332996" name="Аудитория 204" code="0204" can_be_special="0" seats="24">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="20" />
+              </subjects>
+            </auditorium>
+            <auditorium id="310BA000-A839-42E1-9513-DB2445444704" name="Аудитория 206" code="0206" can_be_special="0" seats="16">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="15" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+        <station id="2C14C6A0-6D5A-0132-C82C-005056BD0BC4" code="4910" name="4910, 491002 ФКОУ СОШ ГУФСИН России по Свердловской области" school_id="71D64BA0-C207-0131-5E8A-005056BD0BC4">
+          <auditoriums>
+            <auditorium id="7AA6FDB1-F75F-45E6-AF8A-B1477EDE30BA" name="22" code="0022" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика" with_disabilities="0" special="0" total="1" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+        <station id="22904C30-9F5B-0134-11C9-005056BD22CD" code="4312" name="4312, 431002 ГКОУ СО &quot;Ивдельская ВШ&quot; филиал" school_id="AA01B8B0-C24A-0131-5DCF-005056BD0BC4">
+          <auditoriums>
+            <auditorium id="AF6DA5EA-65FB-49AF-B951-13E181A942A3" name="комната для занятий" code="0001" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="1" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+      </stations>
+    </region>
+    <region code="67" name="Смоленская область">
+      <stations>
+        <station id="B6C93C46-C0EA-4E09-93DD-B139DB8919EA" code="40" name="Муниципальное бюджетное  общеобразовательное учреждение &quot;Средняя  школа №12&quot;" school_id="4D81DA61-EAA7-4965-9505-23FB383C7C72">
+          <auditoriums>
+            <auditorium id="8651229F-9F6D-4C93-B6C4-028BCD256747" name="67004006" code="0006" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="15" />
+              </subjects>
+            </auditorium>
+            <auditorium id="06F99DF2-6764-479A-BBF7-A3D0A7751769" name="67004007" code="0007" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="14" />
+              </subjects>
+            </auditorium>
+            <auditorium id="3E72945D-849C-4338-B892-1FD5BA5C358D" name="67004008" code="0008" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="14" />
+              </subjects>
+            </auditorium>
+            <auditorium id="17FBE5ED-0A87-4CDE-ACB8-2FDC0210B6E5" name="67004009" code="0009" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="11" />
+              </subjects>
+            </auditorium>
+            <auditorium id="FECC082D-F47C-4811-BD14-4B8889279A62" name="67004010" code="0010" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="10" />
+              </subjects>
+            </auditorium>
+            <auditorium id="48CC9D5D-0C23-430F-86C5-52AFA93608FD" name="67004017" code="0017" can_be_special="0" seats="10">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="1" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+      </stations>
+    </region>
+    <region code="68" name="Тамбовская область">
+      <stations>
+        <station id="953DB576-6B82-4308-9837-09500EB13DED" code="23" name="ТОГКУ &quot;Центр экспертизы образовательной деятельности&quot;" school_id="FD75A354-C5E1-4095-BBC4-963B280FC94A">
+          <auditoriums>
+            <auditorium id="B910DAB9-7096-4E7D-8CF7-D99FCFEB9FF6" name="класс" code="0013" can_be_special="0" seats="16">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="1" />
+              </subjects>
+            </auditorium>
+            <auditorium id="EC19C751-6EAC-454F-A7C7-1BC1CEE784AD" name="класс" code="0016" can_be_special="0" seats="24">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="3" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+      </stations>
+    </region>
+    <region code="69" name="Тверская область">
+      <stations>
+        <station id="900C4C74-FE3F-4228-B2A5-AF69325245D5" code="434" name="Государственное бюджетное профессиональное образовательное учреждение &quot;Тверской педагогический колледж&quot;" school_id="0C02247B-BA49-42D7-8D49-4F7413E911D4">
+          <auditoriums>
+            <auditorium id="95433E11-E154-4176-9154-2990030FF63A" name="2" code="0002" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="15" />
+              </subjects>
+            </auditorium>
+            <auditorium id="CC7CF343-5393-4DA9-9E3A-15400F4EB238" name="3" code="0003" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="4" />
+              </subjects>
+            </auditorium>
+            <auditorium id="4E63AF97-294A-4759-AA03-44245AF20FEB" name="4" code="0004" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="5" />
+              </subjects>
+            </auditorium>
+            <auditorium id="34F3DA27-61F7-44E9-ADCB-3C1CD63A0819" name="7" code="0007" can_be_special="1" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="1" total="1" />
+              </subjects>
+            </auditorium>
+            <auditorium id="81F07D04-23B9-4676-B2CD-0A6B6F81F9FD" name="8" code="0008" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="15" />
+              </subjects>
+            </auditorium>
+            <auditorium id="9985B736-B18C-4EE6-80F5-26C4E00A415F" name="9" code="0009" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="6" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+      </stations>
+    </region>
+    <region code="70" name="Томская область">
+      <stations>
+        <station id="B3A5D445-8E1A-40ED-BA64-F87612F9E10A" code="93" name="МАОУ СОШ №41" school_id="2BCDDB4E-08EA-4E32-B454-92E04E7F343E">
+          <auditoriums>
+            <auditorium id="4F985E6D-AA84-4B0E-9B14-26C9C263B985" name="кабинет истории" code="0047" can_be_special="1" seats="18">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="1" special="1" total="3" />
+                <subject name="Математика профильная" with_disabilities="0" special="1" total="7" />
+                <subject name="Математика базовая" with_disabilities="0" special="1" total="1" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+        <station id="0092C14F-3903-4A65-BF8C-FC57E73543F5" code="65" name="МАОУ СОШ №5 г. Стрежевого" school_id="11B22754-22A2-4929-8737-518E3E31D29A">
+          <auditoriums>
+            <auditorium id="4FD0B4FE-8C05-4637-B372-913AF4E6E585" name="мат" code="0312" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="1" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+      </stations>
+    </region>
+    <region code="71" name="Тульская область">
+      <stations>
+        <station id="766C137D-57A2-4F63-9073-1C9D22D7ADC2" code="55" name="ППЭ № 55" school_id="E7671FC1-4F0C-48A9-ACDC-02B0D9CD4A15">
+          <auditoriums>
+            <auditorium id="4EE8835C-EF70-4352-8C1F-6B2EDB3923A4" name="аудитория №8" code="0008" can_be_special="0" seats="12">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="3" />
+              </subjects>
+            </auditorium>
+            <auditorium id="129DB7FE-0172-457B-9A83-63A4574515FF" name="аудитория №14" code="0014" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="11" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+        <station id="B0FBEA95-F3EE-4AA8-BCD1-E3D07D944E59" code="57" name="ППЭ № 57" school_id="EE4C3030-3517-42E4-80F8-2DB4FE412AA0">
+          <auditoriums>
+            <auditorium id="4BAB6AAA-3B79-429A-9CBF-76CA632B3058" name="3-6 кабинет химии" code="0010" can_be_special="0" seats="18">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="2" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+      </stations>
+    </region>
+    <region code="72" name="Тюменская область">
+      <stations>
+        <station id="E1620253-F9C5-4688-B69C-ADA135243577" code="417" name="МАОУ СОШ №70 г.Тюмени им.Великой Победы" school_id="08BD68A3-2B31-4FE2-89C7-06B0D9AC8E21">
+          <auditoriums>
+            <auditorium id="1C9D7359-2228-445E-B8A1-6E56599FFFF8" name="0310" code="0310" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="2" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+      </stations>
+    </region>
+    <region code="73" name="Ульяновская область">
+      <stations>
+        <station id="F2284B8D-83BA-48A4-80F0-15D2360ABC20" code="176" name="Муниципальное бюджетное общеобразовательное учреждение  г. Ульяновска &quot;Средняя школа №76&quot;" school_id="897CD454-8D60-47CE-AFAF-B08CF9729F5E">
+          <auditoriums>
+            <auditorium id="8F1BE860-82D1-471C-99E5-ED42B74D6D5A" name="0407" code="0407" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="4" />
+              </subjects>
+            </auditorium>
+            <auditorium id="E3E89282-F5E2-4C0C-9A2A-7DCA00D69AD9" name="0408" code="0408" can_be_special="0" seats="21">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="0" />
+              </subjects>
+            </auditorium>
+            <auditorium id="1A061714-EA60-4E7D-98DE-C500A2C19A66" name="0409" code="0409" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="4" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+        <station id="D4544B62-2835-47EB-A335-9015195C17B5" code="182" name="Муниципальное бюджетное общеобразовательное учреждение города Ульяновска &quot;Средняя школа №82&quot;" school_id="BCE21B5B-2691-41F1-AE9F-3FBC634DDB23">
+          <auditoriums>
+            <auditorium id="F3284F19-84F1-4B81-AB9C-7AE91F4A99B5" name="2" code="0002" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="1" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+      </stations>
+    </region>
+    <region code="74" name="Челябинская область">
+      <stations>
+        <station id="82FD25F9-3B6F-4332-BA9E-1283387855A2" code="71" name="Муниципальное общеобразовательное учреждение &quot;Средняя общеобразовательная школа № 8&quot; города Магнитогорска" school_id="8EE218B6-27E4-4159-87B0-BDCB2C25EC31">
+          <auditoriums>
+            <auditorium id="42A292EB-C5BB-4317-9A0C-6EEEB5BF906B" name="25" code="0025" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="1" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+        <station id="5B62E25D-635C-4A0B-8639-FC35505FCEC5" code="27" name="Муниципальное автономное общеобразовательное учреждение &quot;Средняя общеобразовательня школа  № 147 г. Челябинска&quot;" school_id="A20471FD-9FD3-447A-AD8F-D50DE3F4E498">
+          <auditoriums>
+            <auditorium id="5C3F3742-D834-4E2B-BB70-3133A82E68B3" name="21" code="0002" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="5" />
+              </subjects>
+            </auditorium>
+            <auditorium id="7363F1B1-2089-4B4F-A205-CD33C736657A" name="22" code="0003" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="9" />
+              </subjects>
+            </auditorium>
+            <auditorium id="AF609C62-D7BC-4ABE-A684-3BB8841BA63E" name="23" code="0004" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="7" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+      </stations>
+    </region>
+    <region code="75" name="Забайкальский край">
+      <stations>
+        <station id="048A325B-2882-4D61-AA40-83D2D27E2555" code="34" name="Муниципальное бюджетное общеобразовательное учреждение &quot;Средняя общеобразовательная школа № 40&quot;" school_id="B0060382-5884-4A42-91FF-D57A31176ECC">
+          <auditoriums>
+            <auditorium id="89866980-9504-41BA-B6D4-5643BE6E5DA7" name="физика" code="0001" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="0" />
+              </subjects>
+            </auditorium>
+            <auditorium id="2869A941-6B91-4D21-AB6F-4D843E2A90B2" name="история" code="0002" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="0" />
+              </subjects>
+            </auditorium>
+            <auditorium id="AF63FCBE-C78F-4E26-A7F9-24F9EBD80125" name="история" code="0003" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="0" />
+              </subjects>
+            </auditorium>
+            <auditorium id="5D38496D-8AF8-44FC-AF04-00A9711C0AAF" name="ОБЖ" code="0004" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="0" />
+              </subjects>
+            </auditorium>
+            <auditorium id="46E48362-46EC-4EB6-8F5C-C71DFE26CE69" name="русский язык" code="0010" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="0" />
+              </subjects>
+            </auditorium>
+            <auditorium id="9F7DC72B-5CD7-4C3F-B4A3-F3318384C1A9" name="английский язык" code="0011" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="0" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+        <station id="BB6EA876-C08C-4930-8C67-C31AED22DA29" code="2" name="Муниципальное бюджетное общеобразовательное учреждение &quot;Средняя общеобразовательная школа №2&quot;" school_id="095F7433-C764-4B9D-A9C4-107614D6A0B6">
+          <auditoriums>
+            <auditorium id="B61F4A2E-E378-47F7-82E1-1DA7C3E36085" name="Математики" code="0009" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="0" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+      </stations>
+    </region>
+    <region code="76" name="Ярославская область">
+      <stations>
+        <station id="86CA144A-CA3C-4807-B67A-21597A22A65C" code="32" name="Муниципальное общеобразовательное учреждение &quot;Средняя школа № 25 имени Александра Сивагина&quot;" school_id="3DD5A490-4928-4535-AFE6-9461DB7D4A53">
+          <auditoriums>
+            <auditorium id="3ACBB8B1-E4DD-4274-B369-A052B67D6927" name="Кабинет нач.клас. №7" code="0007" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="2" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+        <station id="D833EED7-3FAE-47C8-85EC-AE79394AF2B0" code="912" name="На дому: 150003, г.Ярославль, ул. Кооперативная, д. 14, кв. 30">
+          <auditoriums>
+            <auditorium id="B43CB1AC-3178-4FA2-8A39-34D16EDB197C" name="Кабинет №1" code="0001" can_be_special="1" seats="1">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="1" special="1" total="1" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+        <station id="7313A646-EE7C-4F62-97B1-B93297E5F745" code="371" name="Муниципальное общеобразовательное учреждение &quot;Кузнечихинская средняя  школа&quot; Ярославского муниципального района" school_id="1E4D17A8-84AC-4158-BA2C-F44D8FCFF1C8">
+          <auditoriums>
+            <auditorium id="C42E5941-19FF-4380-8991-7FF7F6DD5855" name="Кабинет математики" code="0021" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="5" />
+              </subjects>
+            </auditorium>
+            <auditorium id="AB717A0D-8D3D-4244-A14D-4F81FF12CF7E" name="Кабинет географии" code="0027" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="4" />
+              </subjects>
+            </auditorium>
+            <auditorium id="217FBB69-3848-42D2-914E-8FA25900AC6F" name="Кабинет биологии" code="0031" can_be_special="1" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="1" special="1" total="1" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+      </stations>
+    </region>
+    <region code="77" name="г. Москва">
+      <stations>
+        <station id="B183BAC0-0938-45FF-B952-45A52D09D253" code="171" name="2_Государственное бюджетное общеобразовательное учреждение города Москвы &quot;Школа №171&quot;" school_id="AA296D33-0725-49FF-8D7C-9D6A7C9B8F4B">
+          <auditoriums>
+            <auditorium id="3FE8CB77-C55D-470E-B753-CDA7B1C41087" name="6" code="0006" can_be_special="1" seats="12">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="1" special="1" total="1" />
+              </subjects>
+            </auditorium>
+            <auditorium id="A5E3EEEC-B74E-41CA-A316-50EF95EE3011" name="30" code="0030" can_be_special="0" seats="18">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="8" />
+              </subjects>
+            </auditorium>
+            <auditorium id="ED86BF54-FFF5-4BE9-AB61-0DABE383F4A0" name="33" code="0033" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="14" />
+              </subjects>
+            </auditorium>
+            <auditorium id="43846E28-26BD-479F-B1FA-E02913C6F75C" name="34" code="0034" can_be_special="0" seats="18">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="17" />
+              </subjects>
+            </auditorium>
+            <auditorium id="89314053-649E-41DA-9435-4BEE809856D5" name="48" code="0048" can_be_special="1" seats="18">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="1" special="1" total="1" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+        <station id="871AE326-412D-4127-93C2-F61341B713B3" code="2710" name="1_Государственное бюджетное общеобразовательное учреждение города Москвы &quot;Школа № 1465 имени адмирала Н.Г. Кузнецова&quot;" school_id="99ED012C-CE30-45C2-8188-9ED9829CB9FD">
+          <auditoriums>
+            <auditorium id="537514A8-BC1E-4446-B94F-3DDB811F5ECC" name="208" code="0208" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="12" />
+              </subjects>
+            </auditorium>
+            <auditorium id="69C01ADC-1490-459E-ADAF-F91F697F0426" name="210" code="0210" can_be_special="0" seats="18">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="17" />
+              </subjects>
+            </auditorium>
+            <auditorium id="014514B7-821D-4BC2-B34A-F1706802CB35" name="301" code="0301" can_be_special="0" seats="18">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="10" />
+              </subjects>
+            </auditorium>
+            <auditorium id="62BB69D9-96D0-4C0B-99A1-770AFF8A6F19" name="306" code="0306" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="14" />
+              </subjects>
+            </auditorium>
+            <auditorium id="C3370BE1-F28B-4539-82F0-6E8173E2752B" name="307" code="0307" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="10" />
+              </subjects>
+            </auditorium>
+            <auditorium id="EA2EAA9D-9016-437B-A432-F92D3FDE9920" name="308" code="0308" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="10" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+      </stations>
+    </region>
+    <region code="78" name="г. Санкт-Петербург">
+      <stations>
+        <station id="11769A05-A502-4393-BF93-4E1BA6045B1B" code="122" name="ГБОУ СОШ №307" school_id="11769A05-A502-4393-BF93-4E1BA6045B1B">
+          <auditoriums>
+            <auditorium id="9A5E4724-6DFB-4183-85B6-A4ABB6C39FA1" name="0002" code="0002" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="9" />
+              </subjects>
+            </auditorium>
+            <auditorium id="6D364B96-9B6A-464F-9C8E-E3994B24ED8C" name="0003" code="0003" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="12" />
+              </subjects>
+            </auditorium>
+            <auditorium id="5376BC18-D371-43E8-A866-3CE2B7DBAB1C" name="0004" code="0004" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="13" />
+              </subjects>
+            </auditorium>
+            <auditorium id="BB757F3B-BF88-4B6B-BCC3-B040364C6A09" name="0005" code="0005" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="8" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+        <station id="B6ACCEE9-7B77-4DD2-B133-5A64FB61F21E" code="127" name="ГБОУ Лицей №281" school_id="B6ACCEE9-7B77-4DD2-B133-5A64FB61F21E">
+          <auditoriums>
+            <auditorium id="F8DF6E97-EB49-43C3-8379-D7A3A20B3397" name="0001" code="0001" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="3" />
+              </subjects>
+            </auditorium>
+            <auditorium id="76F33838-D4E3-4481-9428-EA52555E7C37" name="0002" code="0002" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="8" />
+              </subjects>
+            </auditorium>
+            <auditorium id="DA6E23D3-7558-449C-ADD4-EE77DF845F54" name="0003" code="0003" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="6" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+      </stations>
+    </region>
+    <region code="82" name="Республика Крым">
+      <stations>
+        <station id="CA5C0B9B-3D36-49A9-8B8E-284881DB90E2" code="2218" name="Муниципальное бюджетное общеобразовательное учреждение &quot;Средняя общеобразовательная школа №27 имени Героя Советского Союза В.Ф. Маргелова&quot; муниципального образования городской округ Симферополь Республики Крым" school_id="9DE9B160-4233-4097-A380-468642A8FAFE">
+          <auditoriums>
+            <auditorium id="06FE3D9C-4E81-40FF-8351-F0170B21B79C" name="Кабинет № 22" code="8208" can_be_special="0" seats="21">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="4" />
+              </subjects>
+            </auditorium>
+            <auditorium id="53E216AB-AFB1-4E10-9D32-EB0FD2790C8A" name="Кабинет № 24" code="8209" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="7" />
+              </subjects>
+            </auditorium>
+            <auditorium id="5A5E42E8-E97E-47B3-917E-BBD0C62209FE" name="Кабинет №  25" code="8210" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="6" />
+              </subjects>
+            </auditorium>
+            <auditorium id="D7E92DCD-1860-493C-A81B-B5723718FB6D" name="Кабинет №21" code="8215" can_be_special="0" seats="9">
+              <subjects>
+                <subject name="Математика" with_disabilities="0" special="0" total="6" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+      </stations>
+    </region>
+    <region code="86" name="Ханты-Мансийский автономный округ">
+      <stations>
+        <station id="CEB65CC5-AF45-4600-9680-C687DEB5210B" code="416" name="Автономное учреждение профессионального образования Ханты-Мансийского автономного округа - Югры &quot;Ханты-Мансийский технолого-педагогический колледж&quot;" school_id="413778CE-ECDC-42A0-9934-02C6027A1AF7">
+          <auditoriums>
+            <auditorium id="82C5F606-D4A2-4479-85B0-0AB87470AFE7" name="ПДД" code="0206" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Русский язык" with_disabilities="0" special="0" total="5" />
+              </subjects>
+            </auditorium>
+            <auditorium id="C4808459-27B3-480E-8F22-B079381B6B4F" name="ОБЖ" code="0208" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика базовая" with_disabilities="0" special="0" total="11" />
+              </subjects>
+            </auditorium>
+            <auditorium id="177CC9AA-7F86-40C8-82E2-2557F671DA3F" name="ОБЖ" code="0210" can_be_special="0" seats="15">
+              <subjects>
+                <subject name="Математика профильная" with_disabilities="0" special="0" total="11" />
+              </subjects>
+            </auditorium>
+          </auditoriums>
+        </station>
+      </stations>
+    </region>
+  </regions>
+</schedule>
